@@ -1,0 +1,37 @@
+<i>10</i><c>Lukas</c><t>Sudah sebulan¡­ Kami bertiga di sini bertugas untuk menjaga Kota ini agak bosan.</t>
+<i>20</i><c>Shaun</c><t>Jangan berasa cuai¡­ Walaupun kami telah menandatangani perjanjian dengan Mukjizat, tetapi masih banyak perompak dalam kawasan ini.</t>
+<i>30</i><c>Dru</c><t>Cikgu patut membagi kami apa-apa sebagai pertukaran. Tapi, hanya berdiri di sini akan menyebabkan hatiku bersantai!</t>
+<i>40</i><c>LuKas</c><t>Eh! Tengok sana! Mungkin sesiapa tercedera! </t>
+<i>50</i><c>Shaun</c><t>Kami tak boleh hanya berdiri di sini. Kita patut pergi lihat dia!</t>
+<i>60</i><c>Penduduk</c><t>Ka¡­ Kamu mestilah Wira Pejuang dalam legenda....... Perompak..... Mereka merosakkan kampung kami.....Tolong..... hentikan mereka.......</t>
+<i>70</i><c>Lukas</c><t>Sialan! Kami patut membuat apa-apa!</t>
+<i>80</i><c>Dru</c><t>Sudah kamu dengar daripada penduduk ni. Inilah peluang kita untuk menghilang kebosanan!</t>
+<i>90</i><c>Shaun</c><t>Kami akan membalas dendam</t>
+<i>100</i><c>Penduduk</c><t>Tolong.... Mereka........(Pengsan)</t>
+<i>110</i><c>Perompak</c><t>Mereka terlalu kuat berbanding dengan kami!</t>
+<i>120</i><c>Pembaling Pisau</c><t>Berundur!!</t>
+<i>130</i><c>Penduduk</c><t>Anda menyelamatku, aku berhutang kepada anda selama-lamanya.</t>
+<i>140</i><c>Penduduk</c><t>Saya akan membantu anda untuk bertarung dengan mereka. </t>
+<i>150</i><c>Penduduk</c><t>Sekiranya anda hendak saya menyertai kumpulan anda, anda hanya berjalan ke sisiku. Gunakan butang arahan untuk suruh saya ke mana-mana arah.</t>
+<i>160</i><c>Penduduk</c><t>Jikalau anda tidak tahu manakah butang arahan, kilk keyboard di arah timur laut untuk mencari butang atau menukarkannya. </t>
+<i>170</i><c>Penduduk</c><t>Kuasaku terhad, jadi lebih baik jika saya tidak berada di depan.</t>
+<i>180</i><c>Lukas</c><t>v</t>
+<i>190</i><c>Perompak</c><t>Mereka sangat kuat¡­ Mungkin kami telah terserempak dalam Wira Pejuang!</t>
+<i>200</i><c>Pembaling Pisau</c><t>Kalau macam ini, berundur! Giggs akan tahu apakah untuk buat!</t>
+<i>210</i><c>Perompak</c><t>Aye! Berundur ke Giggs!</t>
+<i>220</i><c>Wanita</c><t>Terima kasih untuk menyelamatkan saya¡­ Perompak-perompak itu telah merampas banyak harta saya, maka saya akan menyertai anda! </t>
+<i>230</i><c>Wanita</c><t>Sekiranya anda cedera sehingga kurang daripada 50%, datangkan ke sisi saya. Saya akan menggunakan kuasa ajaib saya untuk menyembuhkan anda.</t>
+<i>240</i><c>Lukas</c><t>Bagus! Kumpulan kami memerlukan orang seperti kamu. Kami sedang menuju ke kem perompak!</t>
+<i>250</i><c>Perompak</c><t>Ketua Giggs! Ada tiga orang muncul dan mengalahkan kami... Mereka sekarang berada di......</t>
+<i>260</i><c>Giggas</c><t>Apa? Hanya TIGA? Kamu semua mainkan saya yakah?</t>
+<i>270</i><c>Dru</c><t>Orang itu dengan melekat itu mestilah ketua  mereka.</t>
+<i>280</i><c>Shaun</c><t>Kita harus mengutamakan kepadanya. Jika tidak, kita akan ditenggelami oleh perompak.</t>
+<i>290</i><c>Lukas</c><t>Awak tikus ini..... Sekarang awak akan menerima hukuman untuk memulangkan nyawa yang telah kamu ambil!</t>
+<i>300</i><c>Giggas</c><t>Kamu semua bodoh ni, hanya tiga orang hendak mengalahkan kami? Di bawah saya, menyerangkan mereka!</t>
+<i>310</i><c>Giggas</c><t>Bagaimana.....? Bagaimanakah hanya mereka bertiga boleh mengalahkan kita?</t>
+<i>320</i><c>Shaun</c><t>Awak memandang rendah terhadap kami!/t>
+<i>330</i><c>Lukas</c><t>Sekarang, awak tiada sebarang peluang untuk melawan. Awak akan mati di sini!</t>
+<i>340</i><c>Giggas</c><t>*MENELAN* Saya tidak bersetuju! Berundur!</t>
+<i>350</i><c>Dru</c><t>Alamak......</t>
+<i>360</i><c>---</c><t>--- Peringkat Tamat ---
+(Terima Kasih Lai Zhen Yean untuk penerjemahan!)</t>

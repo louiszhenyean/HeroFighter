@@ -1,0 +1,71 @@
+<i>10</i><c>Titto</c><t>What?!  You were defeated by only three fighters?!  What a disgrace!</t>
+<i>20</i><c>Giggs</c><t>They are stronger than you think, General Titto...  Avenge us...</t>
+<i>30</i><c>Titto</c><t>Hmph...</t>
+<i>40</i><c>Woman</c><t>We are forever grateful for what you did...  If it weren't for you, we would be dead!</t>
+<i>50</i><c>Drew</c><t>Don't mention it!  It's what we do.  Shame that Giggs feller got away, though.</t>
+<i>60</i><c>Shawn</c><t>Don't feel too safe.  There are still bandits around the area.  It's only a matter of time till they try something nasty again.</t>
+<i>70</i><c>Lucas</c><t>I agree.  I don't think we should just sit around doing nothing about it, I say we ambush them and take them out in one go!</t>
+<i>80</i><c>Shawn</c><t>No.  It is our responsibility to stand guard at the gate and defend it.  It's our Master's command.</t>
+<i>90</i><c>Lucas</c><t>We only need half of our army.  As long as there are still soldiers here, they're just bandits, anyways.</t>
+<i>100</i><c>Drew</c><t>That's right!  We signed a treaty with the Phoenix a while ago, it's not like the gate's in any real danger, I say we go!</t>
+<i>110</i><c>Shawn</c><t>I cannot say I agree with this plan.  But it's two votes against one.  Count me in, then.</t>
+<i>120</i><c>Lucas</c><t>The bandit's main camp is in the middle of this forest.</t>
+<i>130</i><c>Lucas</c><t>Soldiers, surround the forest, don't let any bandits escape!</t>
+<i>140</i><c>Infantry</c><t>Yes, Sir!</t>
+<i>150</i><c>Lucas</c><t>Let's bring justice to the lives lost today by these thugs!</t>
+<i>160</i><c>Infantry</c><t>Yes, Sir!</t>
+<i>170</i><c>Bandit</c><t>Looks like we've got company...</t>
+<i>180</i><c>Drew</c><t>The Bandit camp is near, get ready!</t>
+<i>190</i><c>Lucas</c><t>On my lead, soldiers!</t>
+<i>200</i><c>Titto</c><t>THESE are the kids Giggs was talking about?  HAH!  I've been expecting you, Hero Fighters!</t>
+<i>210</i><c>Shawn</c><t>(Giggs is nowhere to be seen...  something doesn't feel right.)</t>
+<i>220</i><c>Lucas</c><t>Drop your weapons, chubby!  And we might spare you from the beating your men are about to endure!</t>
+<i>230</i><c>Titto</c><t>SO ARROGANT!  You don't stand a chance against me, you shrimps!</t>
+<i>240</i><c>Lucas</c><t>This guy hit's hard, least he's down now.</t>
+<i>250</i><c>Titto</c><t>HAH!  Like I said, you don't stand a chance!  Is that all you got?</t>
+<i>260</i><c>Drew</c><t>Well I'll be darned!  That only hurt him a lil' bit!</t>
+<i>270</i><c>Shawn</c><t>This one is actually strong.  He's not like the rest.</t>
+<i>280</i><c>Infantry</c><t>Captain...  Our patrol got wiped out in an ambush!</t>
+<i>290</i><c>Drew</c><t>Wha?  What?!  How in tarnation did THAT happen?!</t>
+<i>300</i><c>Bandit</c><t>Look's like you're surrounded!</t>
+<i>310</i><c>Shawn</c><t>We've been trapped...</t>
+<i>320</i><c>Drew</c><t>We... We've got a plan for this, right?!</t>
+<i>330</i><c>Shawn</c><t>We have to fight through.  If we do nothing, we'll be overwhelmed.</t>
+<i>340</i><c>Titto</c><t>OH NO you don't!  You're staying and dying right here!</t>
+<i>350</i><c>Lucas</c><t>GO, NOW!</t>
+<i>360</i><c>Bandit</c><t>G... General, are you alright?</t>
+<i>370</i><c>Titto</c><t>FOOL!  Don't just stand around!  After them!</t>
+<i>380</i><c>Infantry</c><t>*pantpantpant*  I... I'm Exhausted...</t>
+<i>390</i><c>Drew</c><t>Well don't stop right now!  Th' gate's right over there!</t>
+<i>400</i><c>Bandit</c><t>Titto said that if we bring the Hero Fighters to him alive, he will reward us greatly.</t>
+<i>410</i><c>Daggerman</c><t>They're outnumbered!  Get them!</t>
+<i>420</i><c>Lucas</c><t>Soldiers,  to the gate!</t>
+<i>430</i><c>Drew</c><t>Well I'll be...  We made it!</t>
+<i>440</i><c>Lucas</c><t>We're safe for now.</t>
+<i>450</i><c>Giggs</c><t>Whoops!  Looks like you're at the WRONG gate!</t>
+<i>460</i><c>Shawn</c><t>What... Our gate is...</t>
+<i>470</i><c>Giggs</c><t>That was a kind gift from you, Heroes, half an army to slaughter, and a gate!  I have to admit, that was VERY easy!</t>
+<i>480</i><c>Lucas</c><t>Red armor...  Phoenix?!</t>
+<i>490</i><c>Giggs</c><t>Looks like you're catching up!  We pretended to be bandits to lower your guard and take over your gate, now, you're dead!</t>
+<i>500</i><c>Drew</c><t>Now hold on a second!  We had a truce!</t>
+<i>510</i><c>Giggs</c><t>You said it right!  HAD!</t>
+<i>520</i><c>Titto</c><t>Play time's over, now, you die!</t>
+<i>530</i><c>Shawn</c><t>(...Shoot! We're in deep trouble!)</t>
+<i>540</i><c>Lucas</c><t>I... I am to blame for this,  if only I haven't insisted in going out to take out the bandits...</t>
+<i>550</i><c>Drew</c><t>Now ain't the time for pity,  Lucas!  Focus!</t>
+<i>560</i><c>Shawn</c><t>We have to fight our way out of this.  We will NEVER surrender.</t>
+<i>570</i><c>Titto</c><t>What... but HOW?!  We underestimated you?!</t>
+<i>580</i><c>Giggs</c><t>Took you long enough!</t>
+<i>590</i><c>Drew</c><t>Our army is gone!  What do we do now?!</t>
+<i>600</i><c>Shawn</c><t>We can't keep doing this.  We have to escape somehow.</t>
+<i>610</i><c>Lucas</c><t>We have to think of something NOW!</t>
+<i>620</i><c>Giggs</c><t>Hehehe...  Don't worry, Heroes,  your friends from the temple will join you soon... in death!</t>
+<i>630</i><c>Lucas</c><t>What?  The Temple?!</t>
+<i>640</i><c>Titto</c><t>Shut up, Giggs!  Agh... guess there no point in hiding it now!  We're attacking the temple after this!</t>
+<i>650</i><c>Drew</c><t>If you were planin' on attacking the temple all along, then why ya here?!</t>
+<i>660</i><c>Giggs</c><t>Because it's YOU were after, why would we care about this dumb gate?  All Heroes must die!</t>
+<i>670</i><c>Shawn</c><t>(...We have to tell Master about this, immediately.)</t>
+<i>680</i><c>Shawn</c><t>Run!</t>
+<i>690</i><c>Titto</c><t>... Crud!</t>
+<i>700</i><c>---</c><t>--- Stage Finshed ---
+(Thanks William Piper for helping translation!)</t>

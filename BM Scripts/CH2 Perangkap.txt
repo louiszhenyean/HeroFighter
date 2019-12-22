@@ -1,0 +1,71 @@
+<i>10</i><c>Tito</c><t>Apa?! Awak ni dikalahkan oleh hanya tiga orang?? Kamu tahu apa maksud malu?!</t>
+<i>20</i><c>Giggas</c><t>Mereka hebat sangat......Tuan Titto......Tolongkan kami membalas dendam......</t>
+<i>30</i><c>Tito</c><t>Cis!</t>
+<i>40</i><c>Wanita</c><t>Kami semua bersyukur terhadap apa yang kamu telah buat tehadap kami....... Kalau tiada kamu, kami telah mati!</t>
+<i>50</i><c>Dru</c><t>Tak apa!! Kami buat ini untuk mengusirkan Si Tikus ¡®Giggas¡¯ itu!</t>
+<i>60</i><c>Shaun</c><t>Jangan cuai hati! Sinilah kawasan perompak. Saya rasa mereka akan buat apa-apa.</t>
+<i>70</i><c>Lukas</c><t>Saya juga bersetuju dengan Shaun. Kami tidak boleh hanya duduk di sini dan bersiar-siar, saya rasa kita harus membuat sesuatu untuk mengusirkan dari kawasan ini!</t>
+<i>80</i><c>Shaun</c><t>Tak boleh. Kami hanya boleh menjaga dan menahannya jika diserang. Inilah arahan Cikgu kami!</t>
+<i>90</i><c>Lukas</c><t>Kami hanya mahu separuh tentara daripada Kota ini sahaja. Mereka hanya perompak yang biasa.</t>
+<i>100</i><c>Dru</c><t>Lucas betul! Kami sudah menandatangani perjanjian dengan Mukjizat, Kota ini tiada sebarang bahaya. Jadi saya bertindak kami boleh pergi!</t>
+<i>110</i><c>Shaun</c><t>Walaupun saya tidak bersetuju dengan tindakan itu, tapi jika kamu dua mahu pergi, Kira  kepada saya juga.</t>
+<i>120</i><c>Lukas</c><t>Perompak punya kem adalah di tengah dalam hutan ini. </t>
+<i>130</i><c>Lukas</c><t>Tentera! Mengelilingi hutan ini! Jangan bagi sesiapa perompak melarikan diri dari sini!</t>
+<i>140</i><c>Infantri</c><t>Faham! Tuan!</t>
+<i>150</i><c>Lukas</c><t>Marilah membawa keadilan kepada nyawa yang telah hilang!</t>
+<i>160</i><c>Infantri</c><tFaham! Tuan!</t>
+<i>170</i><c>Perompak</c><t>Nampaknya Kita telah dapatkan musuh.....</t>
+<i>180</i><c>Dru</c><t>Kem perompak agak dekat, bersedia! </t>
+<i>190</i><c>Lukas</c><t>Bawah pimpin say, tentera!</t>
+<i>200</i><c>Tito</c><t>Ini tiga ialah budak yang Giggs maksuk? Hah! Saya agak menjangkakan kamu, Wira Pejuang!</t>
+<i>210</i><c>Shaun</c><t>(Giggas tidak dapat dilihat di sini...... Rasanya gerak hati...)</t>
+<i>220</i><c>Lukas</c><t>Buangkan kamu punya senjata, Si Gemuk! Kami akan menggunakan kuasa yang kecil untuk menyerang kamu!</t>
+<i>230</i><c>Tito</c><t>Kau agak angkuh! Kamu tidak dapat mencederakan saya, Budak Kecil!</t>
+<i>240</i><c>Lukas</c><t>Si Gemuk ini agak hebat, tapikami dapat mengalahkannya.</t>
+<i>250</i><c>Tito</c><t>Hah! Saya dah cakap, kamu tidak dapat mengalahkan saya! Kuasa kamu tiga hanya sampai di sini?</t>
+<i>260</i><c>Dru</c><t>Alamak! Kami hanya mencederakannya sdikit saja??</t>
+<i>270</i><c>Shaun</c><t>Ini Si gemuk agak hebat! Dia bukan macam yang lain.</t>
+<i>280</i><c>Infantri</c><t>Tuan...... Pelan kami telah gagal! Tentera kami diserang dalam hendap.</t>
+<i>290</i><c>Dru</c><t>A....Apa?! Bagaimanakah itu berlaku?!</t>
+<i>300</i><c>Perompak</c><t>Kelihatan kamu semua telah dikeliling.</t>
+<i>310</i><c>Shaun</c><t>Kami terperangkap...</t>
+<i>320</i><c>Dru</c><tKami telah ada cara jika berada dalam keadaan ini... betulkah?</t>
+<i>330</i><c>Shaun</c><t>Tak, kami hendak merempuh sekarang.</t>
+<i>340</i><c>Tito</c><t>Kamu tiga hanya boleh mati di sini!</t>
+<i>350</i><c>Lukas</c><t>PERGI! SEKARANG!</t>
+<i>360</i><c>Perompak</c><t>Tu....Tuan, kamu tak apa?</t>
+<i>370</i><c>Tito</c><t>Bodoh! Jangan berdiri di sini saja! Kejarkan mereka!!</t>
+<i>380</i><c>Infantri</c><t>*tercunggap-cunggap* Sa....Saya letih sangat....</t>
+<i>390</i><c>Dru</c><t>Jangan Berhenti! Kota agak dekat dengan kami sekarang!</t>
+<i>400</i><c>Perompak</c><t>Titto janji akan jika kami membawa mereka dengan nyawa juga, dia akan memberi ganjaran yang banyak terhadap kami!</t>
+<i>410</i><c>Pembaling Pisau</c><t>Bilangan orang mereka kurang sangat berbanding dengan kami! Serang!</t>
+<i>420</i><c>Lukas</c><t>Tentera! Pergi ke Kota!</t>
+<i>430</i><c>Dru</c><t>Kami....Kami berjaya!</t>
+<i>440</i><c>Lukas</c><t>Kami selamat sekarang.</t>
+<i>450</i><c>Giggas</c><t>Ah! Kamu telah ke SALAH kota!</t>
+<i>460</i><c>Shaun</c><t>Apa?! Kota kami telah....</t>
+<i>470</i><c>Giggas</c><t>Inilah hadiah kepada mu, Wira, separuh tentera telah dimindahkan, dan kota ini, agak mudah untuk dapat!</t>
+<i>480</i><c>Lukas</c><t>Baju Merah.... Mukjizat?</t>
+<i>490</i><c>Giggas</c><t>Kelihatan kamu telah dapatkan! Kami berpura-pura untuk menjadi perompak dan menurunkan pengawal kamu, sekarang kami telah menjajah kota kamu, dan kamu mesti mati sekarang!</t>
+<i>500</i><c>Dru</c><t>Tunggu sekejap, kami telah menandatangani perjanjian sebelum ini!!</t>
+<i>510</i><c>Giggas</c><t>Betul! SEBELUM INI!!</t>
+<i>520</i><c>Tito</c><t>Masa main dah tamat, sekarang, kau mati!</t>
+<i>530</i><c>Shawn</c><t>(Alamak! Kami sekarang dalam keadaan yang teruk sangat!)</t>
+<i>540</i><c>Lucas</c><t>Ma....Maafkan saya, jika saya tidak memindahkan separuh tentera kami......</t>
+<i>550</i><c>Dru</c><t>Lukas, Sekarang jangan mengira itu, Fokus!</t>
+<i>560</i><c>Shaun</c><t>Kami harus mencari jalan dengan mengalahkan mereka! Kami tidak pernah tunduk!!</t>
+<i>570</i><c>Tito</c><t>Apa?! Kami pandang rendah terhadap kamu?!</t>
+<i>580</i><c>Giggas</c><t>Sudah membazirkan masa yang panjang!</t>
+<i>590</i><c>Dru</c><t>Tentera kami telah mati! Semua!! Apakah kami hendak buat sekarang?</t>
+<i>600</i><c>Shaun</c><t>Kami tidak hanya buat ini sahaja, kami harus buat apa-apa.</t>
+<i>610</i><c>Lukas</c><t>Kami harus bertindak apa-apa sekarang!</t>
+<i>620</i><c>Giggas</c><t>Hahaha..... Jangan risau, Wira, kawan-kwan kamu di Kuil  akan menyertai kamu dalam neraka!</t>
+<i>630</i><c>Lukas</c><t>Apa?! Kuil??</t>
+<i>640</i><c>Tito</c><t>Diam, Giggas! Ah! Kami tidak perlu menyimpan ini lagi! Kami akan menyerang Kuil selepas ini!</t>
+<i>650</i><c>Dru</c><t>Jika kamu mahu menyerang Kuil, kenapa masih berada di sini?</t>
+<i>660</i><c>Giggas</c><t>Keranamu! Mengapa kami hendak menyerang kota ini? Semua Wira mesti mati!</t>
+<i>670</i><c>Shaun</c><t>(...Kami harus menyatakan semua ini kepda Cikgu, mesti cepat sikit!)</t>
+<i>680</i><c>Shaun</c><t>PERGI!</t>
+<i>690</i><c>Tito</c><t>... Cis!</t>
+<i>700</i><c>---</c><t>--- Peringkat Tamat ---
+(Terima Kasih Lai Zhen Yean untuk penerjemahan!)</t>

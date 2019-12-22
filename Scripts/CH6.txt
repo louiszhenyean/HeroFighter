@@ -1,0 +1,252 @@
+<i>10</i><c>---</c><t>Venue: Top floor of the castle</t>
+<i>20</i><c>Iczzy</c><t>Ah!  I see you've arrived!  Took you long enough!</t>
+<i>30</i><c>Heater</c><t>Iczzy, is this the guy who you fought at the temple?  Isn't his name Leo?</t>
+<i>40</i><c>Iczzy</c><t>Indeed he is!  Word has it that this guy is to be the next leader of the Temple, that Yaga geezer has high expectations for him.</t>
+<i>50</i><c>Raye</c><t>Considering he's under Sinan's control, we should use him to tell us how to use the sword.</t>
+<i>60</i><c>Heater</c><t>Dragon!  Tell us how to remove the sword from its seal!</t>
+<i>70</i><c>Leo</c><t>I don't know, Yaga never told me how to remove it.  I shall examine the sword and tell you everything I know.</t>
+<i>80</i><c>Heater</c><t>Iczzy, give him the sword.</t>
+<i>90</i><c>Raye</c><t>Wait, what?</t>
+<i>100</i><c>Heater</c><t>Calm yourself, he's under our control, there's nothing to fear.</t>
+<i>110</i><c>Iczzy</c><t>Here!  Just try not to break it!</t>
+<i>120</i><c>Leo</c><t>... Aye</t>
+<i>130</i><c>Leo</c><t>* Pretending to examine the sword *</t>
+<i>140</i><c>Leo</c><t>(I need to find a way to sneak away with the sword...)</t>
+<i>150</i><c>Raye</c><t>......</t>
+<i>160</i><c>Heater</c><t>This is ridiculous!  Making us get that sword at all costs, all because of a stupid fairy tale!  What was the King thinking?!</t>
+<i>170</i><c>Iczzy</c><t>I always told you it was just a useless piece of crap!  Just throw it away or something!</t>
+<i>180</i><c>Heater</c><t>Aye.  It's not worth all the trouble, we can't pull that thing out of its seal, how could this runt do it?</t>
+<i>190</i><c>Raye</c><t>Hey!  You're taking too long!  Get over here at once!</t>
+<i>200</i><c>Leo</c><t>(This is my only chance... what should I do?)</t>
+<i>210</i><c>Jason</c><t>Masters?</t>
+<i>220</i><c>Heater</c><t>You continue to Pester us, guard!  What is it this time?!</t>
+<i>230</i><c>Jason</c><t>General Titto ordered us to bring you some of his best wine to show his respect for you, this wine is imported from the far off lands of-</t>
+<i>240</i><c>Raye</c><t>Titto?  Giving us some of HIS wine?  Since when is he such a charmer?</t>
+<i>250</i><c>Heater</c><t>... We'll take Titto's offering.  Now leave.  Do not bother us again.</t>
+<i>260</i><c>Jason</c><t>Yes, my Masters.</t>
+<i>270</i><c>---</c><t>* The big three drink the wine *</t>
+<i>280</i><c>Heater</c><t>Mmm... This Wine is actually really good!</t>
+<i>290</i><c>Jason</c><t>(The drug isn't working...  What's going on?)</t>
+<i>300</i><c>Iczzy</c><t>What are you peasants doing here?!  We ordered you to leave, get out!</t>
+<i>310</i><c>Jason</c><t>... Wouldn't you like some food with your wine, Masters?</t>
+<i>320</i><c>Heater</c><t>Okay, now, you're really irriating us!  Get out of here before we...</t>
+<i>330</i><c>Heater</c><t>uh... ow... wha-</t>
+<i>340</i><c>Heater</c><t>(fainted)</t>
+<i>350</i><c>Raye</c><t>This wine... is... so... strong... *urp*...</t>
+<i>360</i><c>Raye</c><t>(fainted)</t>
+<i>370</i><c>Iczzy</c><t>Uh...</t>
+<i>380</i><c>Iczzy</c><t>(fainted)</t>
+<i>390</i><c>Leo</c><t>... What just happened?</t>
+<i>400</i><c>Lucas</c><t>Success!  Brother, the big three are down, let's get out of here!</t>
+<i>410</i><c>Taylor</c><t>The drug won't last forever, so we better hurry.  Take the sword and go!</t>
+<i>420</i><c>Drew</c><t>What in tarnation?!</t>
+<i>430</i><c>Leo</c><t>Iczzy?!</t>
+<i>440</i><c>Iczzy</c><t>HAH!  I suspected you rats were not what you seemed!  I froze the wine before drinking it, you idiots can't fool me!</t>
+<i>450</i><c>Shawn</c><t>He's not as thick as the other two...</t>
+<i>460</i><c>Jason</c><t>We can't just leave Taylor behind!</t>
+<i>470</i><c>Leo</c><t>I know Taylor, he wouldn't just die from a blow like that, he'll get up soon.</t>
+<i>480</i><c>Leo</c><t>Lucas, take this sword!  Go!  Take it to Yaga!</t>
+<i>490</i><c>Iczzy</c><t>I'm right here, you idiots!  Do you really think I'm going to let you go just like that?!  DIE!</t>
+<i>500</i><c>Iczzy</c><t>What?!  How did you block that?!  That's... That's never happened before!</t>
+<i>510</i><c>Leo</c><t>You and I will settle this one on one.  Lucas, go! Now!</t>
+<i>520</i><c>Shawn</c><t>Let's go, then!</t>
+<i>530</i><c>Lucas</c><t>... We can't just leave him behind again!</t>
+<i>540</i><c>Drew</c><t>Dag namit Lucas, we got orders from th' boss!  Leave yer emotions behind!  We gotta get goin'!</t>
+<i>550</i><c>Lucas</c><t>Leo!  Don't die!</t>
+<i>560</i><c>Iczzy</c><t>Are you stupid or something?!  I beat you into a bloody pulp last time, do you think things will change?!</t>
+<i>570</i><c>Iczzy</c><t>DIE!</t>
+<i>580</i><c>Iczzy</c><t>What?!  HOLD STILL, DAMNIT!</t>
+<i>590</i><c>Leo</c><t>The same move won't work on me twice.</t>
+<i>600</i><c>Iczzy</c><t>We'll see about that!</t>
+<i>610</i><c>Leo</c><t>Last time we fought you had an army with you, and I saw all your moves.  You won't defeat me like this.</t>
+<i>620</i><c>Iczzy</c><t>Eventually you will tire yourself out!  You and I both know that you are no match for me!</t>
+<i>630</i><c>Iczzy</c><t>FOR CRYING OUT LOUD!  All you do is dodge my moves like a coward!  FIGHT ME, RAT!</t>
+<i>640</i><c>Leo</c><t>You're right.  I cannot fight you one on one.  However, I can drag your foot by keeping you busy.</t>
+<i>650</i><c>Iczzy</c><t>You will die for this!  I WILL catch you eventually!</t>
+<i>660</i><c>Iczzy</c><t>(This guy learns fast!  If I let him get away, he might become stronger than I someday!  I cannot risk that!)</t>
+<i>670</i><c>Leo</c><t>(An openning...)</t>
+<i>680</i><c>Iczzy</c><t>Wha...?</t>
+<i>690</i><c>Leo</c><t>I... Ugh... (fainted)</t>
+<i>700</i><c>Iczzy</c><t>Y... You!  How dare you interrupt my battle!  I was just about to freeze him!</t>
+<i>710</i><c>Raye</c><t>Quit your yapping, Fool!  You let them get away with the sword, go fetch it!  We're too dizzy to run!</t>
+<i>720</i><c>Iczzy</c><t>Who gives a damn about that stupid sword?  It's just a piece of crap!</t>
+<i>730</i><c>Raye</c><t>It's not about you, Iczzy!  The king will have our heads if we lose the sword!</t>
+<i>740</i><c>Heater</c><t>Considering how much of a threat this guy is, we should probably kill him right now.</t>
+<i>750</i><c>Iczzy</c><t>No!  Give him to Sinan!  He could be of great use to us to blackmail his allies!</t>
+<i>760</i><c>Raye</c><t>Oh, for crying out loud, just go!</t>
+<i>770</i><c>Taylor</c><t>Ugh... my head...</t>
+<i>780</i><c>Drew</c><t>Rise and shine, sleepy head!  You've been out for quite a while!</t>
+<i>790</i><c>Taylor</c><t>Ugh... I'm ok... Wait, I can feel three powerful sources aproaching...</t>
+<i>800</i><c>Shawn</c><t>It's the big three, they've been chasing us for quite a while, we can't stop here.  We have to keep moving!</t>
+<i>810</i><c>Taylor</c><t>Where's Leo?  I can't sense his life force...</t>
+<i>820</i><c>Jason</c><t>Leo ordered us to take the sword and leave him to fight Iczzy to buy us time.</t>
+<i>830</i><c>Lucas</c><t>His life force banished, then the big three started to chase us...</t>
+<i>840</i><c>Shawn</c><t>I wouldn't fear for his life though.  The Phoenix much rather have him mind controlled then dead.</t>
+<i>850</i><c>Taylor</c><t>So we have the sword.  Let's head back to the temple, Yaga will know what to do about Leo.</t>
+<i>860</i><c>Infantry</c><t>Enemies coming?</t>
+<i>870</i><c>Drew</c><t>Gosh! These rabble rousers are everywhere!</t>
+<i>880</i><c>Taylor</c><t>Break them down, quickly!  We need to get to the temple!</t>
+<i>890</i><c>Jason</c><t>The big three's power feels stronger...  they're getting closer!</t>
+<i>900</i><c>Taylor</c><t>Go!  I'll catch up, I'm going to try to distract them with some shadow clones!</t>
+<i>910</i><c>Shawn</c><t>I'm not sure if that works on the big three...</t>
+<i>920</i><c>Taylor</c><t>If it buys us some time, it will be worth it, now go!</t>
+<i>930</i><c>Drew</c><t>I hate t' leave ya behind... but we have no choice!  Good luck!</t>
+<i>940</i><c>Raye</c><t>This is odd... We've been here before!</t>
+<i>950</i><c>Iczzy</c><t>It's like were going around in circles!  What is the meaning of this?!</t>
+<i>960</i><c>Raye</c><t>This is an Illusion!</t>
+<i>970</i><c>Heater</c><t>Illusions of Dragon...  Be gone!</t>
+<i>980</i><c>Taylor</c><t>Ugh...  you are not easily decieved...</t>
+<i>990</i><c>Raye</c><t>This runt cloned a bunch of trees to make us lose track of his friends.  Oh, how will they miss you.</t>
+<i>1000</i><c>Heater</c><t>You fooled the big three!  I'll give you credit for that!  Sadly you're on the wrong side!</t>
+<i>1010</i><c>Taylor</c><t>*pantpantpant*</t>
+<i>1020</i><c>Raye</c><t>Looks like he's exhausted!</t>
+<i>1030</i><c>Iczzy</c><t>Hahahaha!  You got knocked down with just ONE hit!  What a runt!</t>
+<i>1040</i><c>Taylor</c><t>Bite your tongue, Mage... if it weren't for the suprise element, you'd be buried in clones by now...</t>
+<i>1050</i><c>Iczzy</c><t>Another arrogant rat!  You guys go ahead and catch his little friends, I'll deal with this one myself!</t>
+<i>1060</i><c>Taylor</c><t>Not as long as I'm alive...</t>
+<i>1070</i><c>Iczzy</c><t>What idiocy!</t>
+<i>1080</i><c>Taylor</c><t>What?! I can't move!  What's going on?!</t>
+<i>1090</i><c>Raye</c><t>Iczzy, finish him off while we terminate his allies!</t>
+<i>1100</i><c>Iczzy</c><t>With pleasure!</t>
+<i>1110</i><c>Taylor</c><t>(I can't move! This ice is too thick!  If i dont find a way to thaw out soon I...)</t>
+<i>1120</i><c>Iczzy</c><t>*whistling*</t>
+<i>1130</i><c>Taylor</c><t>Uh...?</t>
+<i>1140</i><c>Iczzy</c><t>Huh?</t>
+<i>1150</i><c>Taylor</c><t>(What... What is he waiting for?!  Why hasn't he attacked?)</t>
+<i>1160</i><c>Iczzy</c><t>Fully rested, are you?</t>
+<i>1170</i><c>Taylor</c><t>What...?</t>
+<i>1180</i><c>Iczzy</c><t>Thaw!</t>
+<i>1190</i><c>Taylor</c><t>W... What is the meaning of this?!</t>
+<i>1200</i><c>Iczzy</c><t>Like I give a rat's ass about your petty little sword!  I demand entertainment!  Fight me!</t>
+<i>1210</i><c>Taylor</c><t>Demon!  How dare you treat another person's life as a toy!</t>
+<i>1220</i><c>Iczzy</c><t>Your pep talk amuses me!  Give me your best shot, rat!</t>
+<i>1230</i><c>Iczzy</c><t>Oh boy!  I killed off so many of your little friends at the temple!  How come I didn't fight you?!</t>
+<i>1240</i><c>Taylor</c><t>(An opening...!)</t>
+<i>1250</i><c>Taylor</c><t>I won't let you live!</t>
+<i>1260</i><c>Iczzy</c><t>Pfft.  Your clones ain't so tough.  Hell, they aren't even unique!  Now these... THESE are servants!  Ice Guards!</t>
+<i>1270</i><c>Taylor</c><t>What?!</t>
+<i>1280</i><c>Iczzy</c><t>Tear him limb from limb!</t>
+<i>1290</i><c>Iczzy</c><t>You joined the wrong army, Dragon!  You're fighting impresses me!</t>
+<i>1300</i><c>Taylor</c><t>(He's just toying with me, I can't fight him like this, I have to escape somehow!)</t>
+<i>1310</i><c>Taylor</c><t>Ugh... I can't... fight no more... I've failed... Yaga...</t>
+<i>1320</i><c>Taylor</c><t>(pretend to faint)</t>
+<i>1330</i><c>Iczzy</c><t>Get up, weakling!  I had better expectations for Yaga's Right arm!  Get up!</t>
+<i>1340</i><c>Iczzy</c><t>!?</t>
+<i>1350</i><c>Iczzy</c><t>Back so soon?</t>
+<i>1360</i><c>Heater</c><t>Yes.  We kill all enemy.  Enemy dead.  Go home.</t>
+<i>1370</i><c>Raye</c><t>Castle. Go.</t>
+<i>1380</i><c>Iczzy</c><t>... What?  Uh, Okay.  Your speech is impared!  Lay off the wine!</t>
+<i>1390</i><c>Iczzy</c><t>PFFFT!  That's the oldest trick in the book, Mage!</t>
+<i>1400</i><c>Iczzy</c><t>Get on your feet, Dragon!  You're taking the fun out of this!</t>
+<i>1410</i><c>Iczzy</c><t>WHAT... THE... HELL?!</t>
+<i>1420</i><c>Iczzy</c><t>HEY!  GET BACK HERE!  YOU WON'T GET AWAY THAT EASILY!</t>
+<i>1430</i><c>Lucas</c><t>... No!  Taylor's life force...</t>
+<i>1440</i><c>Drew</c><t>WutwutWut?!  Taylor?!  That fella was strong enough t' live!</t>
+<i>1450</i><c>Shawn</c><t>I wouldn't worry about him.  He's more than capable of escaping.</t>
+<i>1460</i><c>Jason</c><t>Keep your heads up.  We're almost there.</t>
+<i>1470</i><c>Lucas</c><t>Heads up guys, we've got company!</t>
+<i>1480</i><c>Jason</c><t>Wait!  Those are my bretheren!</t>
+<i>1490</i><c>Sickleman</c><t>Jason!  Was your mission successful?</t>
+<i>1500</i><c>Jason</c><t>We got the sword, but Phoenix's army is on our tail, you should get out of the way before they see you!</t>
+<i>1510</i><c>Sickleman</c><t>We can buy you time!</t>
+<i>1520</i><c>Jason</c><t>You will die if you try!</t>
+<i>1530</i><c>Sickleman</c><t>For Dragon, Jason...  Our lives for Dragon!</t>
+<i>1540</i><c>Jason</c><t>...</t>
+<i>1550</i><c>Jason</c><t>Lucas, Drew, Shawn!  Get the sword to Yaga, Don't look back!</t>
+<i>1560</i><c>Lucas</c><t>No!</t>
+<i>1570</i><c>Jason</c><t>Don't get emotional!  Don't let Leo and Taylor's effords go to waste!  Go!</t>
+<i>1580</i><c>Lucas</c><t>... Thank you, Jason.</t>
+<i>1590</i><c>Drew</c><t>See ya on the other side!</t>
+<i>1600</i><c>Shawn</c><t>It was an honor, Jason.</t>
+<i>1610</i><c>Jason</c><t>They're coming!</t>
+<i>1620</i><c>Heater</c><t>Bandit Peasants!  Get out of the way!</t>
+<i>1630</i><c>Sickleman</c><t>We won't let you pass!</t>
+<i>1640</i><c>Heater</c><t>Just another bunch of weak bandits trying to steal our goods.  What's this like, the 8th time this happens?</t>
+<i>1650</i><c>Jason</c><t>Spread out, brothers!  Buy ourselves some time!</t>
+<i>1660</i><c>Sickleman</c><t>For dragon!</t>
+<i>1670</i><c>Raye</c><t>What a waste of time.  Heater, you know what to do.  We'll keep going.</t>
+<i>1680</i><c>Heater</c><t>Seriously?  I get to do the dirty work again? ... Fine</t>
+<i>1690</i><c>Jason</c><t>What... Wait!</t>
+<i>1700</i><c>Heater</c><t>I'll make this quick!  Go peacefully and it won't hurt so badly!  Hell of Fire!</t>
+<i>1710</i><c>Sickleman</c><t>Wh... Where are we?!</t>
+<i>1720</i><c>Jason</c><t>It's an illusion!</t>
+<i>1730</i><c>Heater</c><t>This is the place where all souls taken by me come to rest...  Until I awaken them.  You too will rest here, forever!</t>
+<i>1740</i><c>Jason</c><t>No!  The Phoenix army got through!</t>
+<i>1750</i><c>Heater</c><t>Pity.  You have no value of your own lives.  Devoting yourselves to some hierarchy.  I feel sorry for you.</t>
+<i>1760</i><c>Heater</c><t>Ghosts of the past... execute them!</t>
+<i>1770</i><c>Jason</c><t>*Panting*  We... We did it...  Somehow...  we beat Heater...</t>
+<i>1780</i><c>Heater</c><t>Again, I pity you, not even being able to distinguish an illusion from reality.</t>
+<i>1790</i><c>Jason</c><t>Wh... What?!  That was an illusion, too?!</t>
+<i>1800</i><c>Jason</c><t>I'm sorry, Heroes...  I... tried...  Brothers...  You died in vain...  I'm... sorry... (fainted)</t>
+<i>1810</i><c>Heater</c><t>How sad...  The miracle of life, wasted on such petty purposes.  Don't worry, though, your pain will end here.</t>
+<i>1820</i><c>Heater</c><t>Ugh...  OW!  WHAT ON EARTH?!</t>
+<i>1830</i><c>Heater</c><t>What...?  My mind... feels weary suddenly...  Something... dreadful... is near...</t>
+<i>1840</i><c>Iczzy</c><t>Finally I catch up to you!  Did you feel that too?</t>
+<i>1850</i><c>Heater</c><t>R... Raye!  We have to get to him!</t>
+<i>1860</i><c>Iczzy</c><t>Forget this peasant!  Let's go!</t>
+<i>1870</i><c>Shawn</c><t>Jason's life force has vanished...</t>
+<i>1880</i><c>Lucas</c><t>How can we keep doing this?!  So many allies dying or being imprisoned because of us!</t>
+<i>1890</i><c>Drew</c><t>DAG NAMIT LUCAS!  Snap out of it!  We don go all th' way to Phoenix capital t' just cry about losses!  We can save em' later!  Next time I have to listen to yer diddle daddle-</t>
+<i>1900</i><c>Shawn</c><t>Shush!  I sense an overwhelming power!  Prepare yourselves!</t>
+<i>1910</i><c>Raye</c><t>Long time, no see, Dragons.</t>
+<i>1920</i><c>Lucas</c><t>Aw, crap!</t>
+<i>1930</i><c>Shawn</c><t>Go, Lucas.  We'll fight them off.</t>
+<i>1940</i><c>Drew</c><t>GOSH DAMNIT NOW I AM AS MAD AS A FLEA INFESTED PECKARY!  Lucas, take th' sword to Yaga!  I gotta show these trouble makers some manners!</t>
+<i>1950</i><c>Raye</c><t>... Mind yourself, redneck.  Curse of Thunder!</t>
+<i>1960</i><c>Lucas</c><t>It's so dark all of a sudden!</t>
+<i>1970</i><c>Shawn</c><t>What kind of black magic is this?</t>
+<i>1980</i><c>Drew</c><t>Yow!  What in tarnation?!</t>
+<i>1990</i><c>Raye</c><t>You've been cursed.  Wherever you go, My thunder will follow.  There's no chance of you escaping now.  Just hand over the sword!</t>
+<i>2000</i><c>Lucas</c><t>Ack!</t>
+<i>2010</i><c>Drew</c><t>We can't just be jumpin aroun' like itchin' toads!  Think of sometin!</t>
+<i>2020</i><c>Shawn</c><t>Lucas, Drew!  The only way to make it through is to knock Raye down!  Only then will the thunder vanish!</t>
+<i>2030</i><c>Drew</c><t>There's no time to talk, then!  Knock him down!</t>
+<i>2040</i><c>Raye</c><t>Bad decision, dragons.</t>
+<i>2050</i><c>Shawn</c><t>Now's our chance!</t>
+<i>2060</i><c>Drew</c><t>Now ya feel the fury of Drew!  Finish him, Fellas!</t>
+<i>2070</i><c>Shawn</c><t>UGH!</t>
+<i>2080</i><c>Drew</c><t>AM BURNIN!!</t>
+<i>2090</i><c>Lucas</c><t>WOAH!</t>
+<i>2100</i><c>Raye</c><t>The three of you are fools.  You die for nothing more than a simple sword.  It's been a myth all along.</t>
+<i>2110</i><c>Lucas</c><t>I... I'm sorry, guys...</t>
+<i>2120</i><c>Shawn</c><t>Don't apologize,  Lucas, No one lives forever.</t>
+<i>2130</i><c>Drew</c><t>Well, it was good while it lasted, fellas!  If I was to go down early, it's with you!</t>
+<i>2140</i><c>Raye</c><t>Friendship...  That is one of the true things that are really worth it in life.  I respect you for that.  I'll make this quick, and painless.</t>
+<i>2150</i><c>Lucas</c><t>I... I have to try...  I won't let Dragon fall because of me!</t>
+<i>2160</i><c>Lucas</c><t>If you're so powerful...  Help me, Sword...  Save your country!</t>
+<i>2170</i><c>Raye</c><t>Gentlemen...  The time has come.  Rest in peace.</t>
+<i>2180</i><c>Raye</c><t>Huh?  What's going on...</t>
+<i>2190</i><c>Raye</c><t>The sword was unsealed?!  But how?!  Ugh...  Power spike...</t>
+<i>2200</i><c>Super Lucas</c><t>(I've never felt so powerful in my life!  Is this the power of the sword?!)</t>
+<i>2210</i><c>Raye</c><t>What is this?!</t>
+<i>2220</i><c>Raye</c><t>What... just happened?  You're too fast...  this isn't... normal...</t>
+<i>2230</i><c>Shawn</c><t>Lucas, is that you?!  Has the sword made you that powerful?</t>
+<i>2240</i><c>Drew</c><t>I knew it!  I knew my little buddy would pull through!</t>
+<i>2250</i><c>Iczzy</c><t>Raye?!  What is the meaning of this?!  What the hell is going on?!</t>
+<i>2260</i><c>Heater</c><t>Is that...  The sword?</t>
+<i>2270</i><c>Raye</c><t>That blonde guy...  he was able to draw the sword.</t>
+<i>2280</i><c>Iczzy</c><t>It was NOT a fairy tale?!</t>
+<i>2290</i><c>Heater</c><t>This is the point of no return, we have to terminate them at once!  Exterminate them!</t>
+<i>2300</i><c>Iczzy</c><t>Impossible...  How could we lose like this!</t>
+<i>2310</i><c>Raye</c><t>That sword holds too much power...</t>
+<i>2320</i><c>Heater</c><t>If only we wouldn't of lost it...</t>
+<i>2330</i><c>Super Lucas</c><t>This is for all the pain you caused us!  For all the innocent lives you took!  Die!</t>
+<i>2340</i><c>Taylor</c><t>Hold it, Lucas!</t>
+<i>2350</i><c>Super Lucas</c><t>Taylor, Jason!  You're alive!</t>
+<i>2360</i><c>Taylor</c><t>*panting* Lucas!  Don't kill them, we can *wheeze* use them to get back Leo.</t>
+<i>2370</i><c>Super Lucas</c><t>You're right, there's no point in having more bloodshed today.</t>
+<i>2380</i><c>Super Lucas</c><t>But I will knock out these three... monsters, so that they can't get away.</t>
+<i>2390</i><c>Iczzy</c><t>Oh no you don't!  We much rather die than to be captured by maggots like you!</t>
+<i>2400</i><c>Super Lucas</c><t>Ugh...  so... dizzy...  my head...</t>
+<i>2410</i><c>Raye</c><t>What?</t>
+<i>2420</i><c>Shawn</c><t>Lucas!</t>
+<i>2430</i><c>Heater</c><t>His power is unstable!</t>
+<i>2440</i><c>Iczzy</c><t>Now's our chance!  We'll get these worms later!</t>
+<i>2450</i><c>Raye</c><t>Run!</t>
+<i>2460</i><c>Taylor</c><t>Don't chase them...  we're all too wounded to do so...</t>
+<i>2470</i><c>Drew</c><t>Little buddy, are you alright?</t>
+<i>2480</i><c>Gordon</c><t>They're here!</t>
+<i>2490</i><c>Drew</c><t>Look, little buddy!  They've come to aid us! ... Little buddy?</t>
+<i>2500</i><c>Yaga</c><t>Lucas...</t>
+<i>2510</i><c>Lucas</c><t>Master... save Leo... (fainted)</t>
+<i>2520</i><c>---</c><t>--- To be continued ---

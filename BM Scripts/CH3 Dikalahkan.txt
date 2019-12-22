@@ -1,0 +1,124 @@
+<i>10</i><c>---</c><t>Kuil Wira adalah suatu organisasi angkatan tenteraan, angkatan yang paling kuat dalam Naga.Kuil ini telah dibangunkan selama satu abad, Kuil ini didirilan untuk melatih pahlawan yang hebat.</t>
+<i>20</i><c>---</c><t>Setiap kali, jika Naga diserang,Pahlawan Kuil Wira, kita memanggilnya sebagai ¡°Wira Pejuang¡± akan menahan Negara ini, dan tidak pernah kalah.</t>
+<i>30</i><c>---</c><t>Hingga kini¡­¡­..</t>
+<i>40</i><c>Lukas</c><t>Kami Berjaya¡­¡­.</t>
+<i>50</i><c>Leo</c><t>Itukah¡­¡­Lukas?! Apa yang telah berlaku? Kenapa kamu tidak berada di Kota?</t>
+<i>60</i><c>Lukas</c><t>Abangku, Mukjizat telahmembatalkan kontrak! Mereka menjajah Kota kami lalu akan menyerang sini!</t>
+<i>70</i><c>Jenny</c><t>Kamu bertiga! Kamu perlulah menerima rawatan perubatan sekarang! Marilah ikut saya!</t>
+<i>80</i><c>Shaun</c><t>Mukjizat telah mengumpul banyak tentera dan menuju ke sini sekarang! Tolonglah memberitahu Cikgu!</t>
+<i>90</i><c>Infantri</c><t>Saya akan, tuan!</t>
+<i>100</i><c>Tito</c><t>Kamu tiga telah membantu kami banyak!</t>
+<i>110</i><c>Dru</c><t>Apa?! Si Gemuk ini agak cepat!!</t>
+<i>120</i><c>Tito</c><t>Giggas, bawakan separuh tentera serang ke dalam Kuil! Saya hendak menghentam beberapa lipas di sini!</t>
+<i>130</i><c>Giggas</c><t>Tentu sekali, General Tito!</t>
+<i>140</i><c>Dru</c><t>Pergi dari sini, Si Gemuk! Kamu tiada kerja di sini!!</t>
+<i>150</i><c>Tito</c><t>Kerja saya oialah Kuil ini! Kamu hendak melarikan diri, atau mati!</t>
+<i>160</i><c>Leo</c><t>Lukas!</t>
+<i>170</i><c>Tito</c><t>Kamu bertiga lipas ini tidak kuat, hanya boleh menahan saja!</t>
+<i>180</i><c>Tito</c><t>Giggas, Serang!</t>
+<i>190</i><c>Giggs</c><t>Tentu sekali, General!!</t>
+<i>200</i><c>Jenny</c><t>Leo, kami tidak boleh tunggu di sini! Kita harus menahan!</t>
+<i>210</i><c>Leo</c><t>Jangan risau, Jenny. Taylor dan Cikgu akan dapat menahan mereka. Saya hanya takut tentera yang sedang menuju ke sini......</t>
+<i>220</i><c>Leo</c><t>Jenny, kamu membawa Lukas serta yang lain untuk menerima rawatan, dan juga menghubung General gordon, dan menyatakan segala ini kepadanya.</t>
+<i>230</i><c>Leo</c><t>Dengan bantuan Gordon, kami mesti boleh menahan Kuil ini.</t>
+<i>240</i><c>Jenny</c><t>Dan kamu buat apa? Leo?!</t>
+<i>250</i><c>Leo</c><t>Saya akan menjaga ¡°Si Gemuk¡± ni, Saya akan melambatkan masa untuk kamu, Sekarang PERGI!!</t>
+<i>260</i><c>Tito</c><t>Saya hanya terdengar BlaBlaBla saja! Mari lawan!</t>
+<i>270</i><c>Leo</c><t>Saya tidak takut kamu.</t>
+<i>280</i><c>Tito</c><t>Eh? Dia tidak menyentak?!</t>
+<i>290</i><c>Leo</c><t>Perkara yang sama tidak membawa kesan kepada aku!</t>
+<i>300</i><c>Jenny</c><t>Leo, kami akan peigi, berhati-hati!</t>
+<i>310</i><c>Leo</c><t>Adakah saya memberi arahan bahawa kamu tak benar pergi? Pergilah cepat!!</t>
+<i>320</i><c>Tito</c><t>Ah...... Walaupun saya tidak mencederakan kamu, saya masih mempunyai angkutan tentera! Kamu telah mati!</t>
+<i>330</i><c>Tito</c><t>Tentera! Mengeliling dia dan Serang!</t>
+<i>340</i><c>Infantri</c><t>Aye!</t>
+<i>350</i><c>Tito</c><t>sia....Siapakah kamu?!</t>
+<i>360</i><c>Leo</c><t>Kamu tidak pernah belajar jangan pandang rendah terhadap musuh? Tito.</t>
+<i>370</i><c>Leo</c><t>!!! Apa? Saya rasa sesuatu kuasa yang kuat sedang mendekati.... Apa tu?!!</t>
+<i>380</i><c>Artik</c><t>Agak menghairankan aku!! Kuil Wira mempunyai Pahlwan yang semacam kamu!</t>
+<i>390</i><c>Tito</c><t>Pembesar Artik tealh datang....</t>
+<i>400</i><c>Tito</c><t>Sekarang kamu tamat! Pembesar Artik  adalah Satu daripada Tiga Besar! Kau akan mati!</t>
+<i>410</i><c>Leo</c><t>(Satu daripada Tiga Besar?!! Alamak......)</t>
+<i>420</i><c>Leo</c><t>(Dan angkutan tentera dalam bilangan yang besar sangat.....Walao Eh.....) </t>
+<i>430</i><c>Artik</c><t>Selamat tinggal, Wira!</t>
+<i>440</i><c>Jenny</c><t>Lukas, bangun!</t>
+<i>450</i><c>Lukas</c><t>Ap.....Apakah yang berlaku? Manakah saya? Manakah Leo?</t>
+<i>460</i><c>Shaun</c><t>Leo melawan dengan Tito untuk memanjangkan masa untuk kami ke sini.</t>
+<i>470</i><c>Jenny</c><t>Sesuatu kuasa yang kuat dari Leo semasa kami meninggal. Selepas itu, Leo punya kuasa hidup hilang......</t>
+<i>480</i><c>Infantri</c><t>Kami agak prihatin terhadap Leo......</t>
+<i>490</i><c>Lukas</c><t>Tak pernah! Leo tidak akan mati macam ini!</t>
+<i>500</i><c>Dru</c><t>Sialan! Jika kami tidak meninggalkan kota, perkara itu tidak akan berlaku!</t>
+<i>510</i><c>Shaun</c><t>Inilah kesalahan kami!</t>
+<i>520</i><c>Lukas</c><t>Saya hendak pergi! Saya mahu menyelamatkan Leo!</t>
+<i>530</i><c>Jenny</c><t>Saya tidak benar, Lukas. Kamu hendak rehat di sini!Inilah arahan!</t>
+<i>540</i><c>Lukas</c><t>Leo tidak akan mati! Saya tahu itu! Saya mesti pergi! Kamu hanya boleh memilih pergi atau tidak!</t>
+<i>550</i><c>Jenny</c><t>Kami telah menghubung Gordon, mereka akan menyelamatkan mereka!</t>
+<i>560</i><c>Lukas</c><t>Tidak! Saya mahu pergi sekarang! Saya mahu menyelamatkan Leo!</t>
+<i>570</i><c>Jenny</c><t>Jadi saya tiada pilihan.</t>
+<i>580</i><c>Lukas</c><t>Jangan lawan dengan saya! Jenny!</t>
+<i>590</i><c>Shaun</c><t>Apa kamu berdua buat? Jangan membazirkan tenaga kamu! Masih kecil kah?</t>
+<i>600</i><c>Jenny</c><t>......</t>
+<i>610</i><c>Lukas</c><t>Dengar saya, Jenny. Jika kami tidak buat sesuatu sekarang, Cikgu kami dan kawan kami akan mati di Kuil!</t>
+<i>620</i><c>Lukas</c><t>Saya tahu Leo masih hidup! Dia hanya dalam keadaan yang bahaya! Jadi saya harus pergi!</t>
+<i>630</i><c>Jenny</c><t>Saya....Saya tahu.</t>
+<i>640</i><c>Jenny</c><t>Saya akan pergi dengan kamu. Askar! Hubungkan Gordon cepat sikit!</t>
+<i>650</i><c>Dru</c><t>Sudah menyelesaikan masalah ini! Pergi Sekarang!</t>
+<i>660</i><c>Yaga</c><t>General dari Tentera Mukjizat! Apakah maksud ini? Kami telah menatangi perjanjian!</t>
+<i>670</i><c>Artik</c><t>Si Tua, saya hanya hendak melawat kamu! Hari ini ialah hari tamatan Kuil ini!</t>
+<i>680</i><c>Yaga</c><t>(Evan, Legge dan askar dalam bilangan besar sedang menahan di pinggir utara. Kami tidak dapat berbanding dengan mereka! ?Inilah tamatan kami?)</t>
+<i>690</i><c>Taylor</c><t>Cikgu Yaga! Kamu mengajar kami jangan berputus asa! Kami boleh fokus terhadap Baju Biru itu!</t>
+<i>700</i><c>Artik</c><t>Saya dengar itu! Marilah lihat kehebatan saya!</t>
+<i>710</i><c>Taylor</c><t>He......Hebatnya! </t>
+<i>720</i><c>Pemanah</c><t>Itu......Itulah tidak siuman!</t>
+<i>730</i><c>Yaga</c><t>Ini......Inilah......Kami hendak berjuang dalam keadaan yang buruk!</t>
+<i>740</i><c>Lukas</c><t>Ah! Kamu rasa tu? Saya rasa sesuatu kuasa keluar dari Kuil! Dan kuasa itu bukan kuasa rakan kami!</t>
+<i>750</i><c>Jenny</c><t>Kuasa itulah sesama semasa Leo melawan!</t>
+<i>760</i><c>Shaun</c><t>Situlah tentera di hadapan pintu, kami hendak menyerang itu!</t>
+<i>770</i><c>Dru</c><t>Saya harap Cikgu dapat menahan dengan kuasa itu......</t>
+<i>780</i><c>Lukas</c><t>Awas! </t>
+<i>790</i><c>Penggulat</c><t>Wira Pejuang! Tentera! Tangkapkan mereka dengan nyawa juga! Kami akan mendapat ganjaran yang banyak!</t>
+<i>800</i><c>Infantri</c><t>Aye!</t>
+<i>810</i><c>Shaun</c><t>Kami telah lambat.....</t>
+<i>820</i><c>Dru</c><t>Manakah Leo? Mereka sudah hilang?!</t>
+<i>830</i><c>Jenny</c><t>Mereka tidak akan pergi dan tidak buat apa-apa, dru, marilah pergi!</t>
+<i>840</i><c>Lukas</c><t>Eh! Tentera kami itu dah sedar!</t>
+<i>850</i><c>Infantri</c><t>Pintu......Kalah......Cikgu.......Bahaya......Tolong......</t>
+<i>860</i><c>Infantri</c><t>Ah! (pengsan)</t>
+<i>870</i><c>Shaun</c><t>Cepat! Kita harus tiba ke Kuil secepat mungkin!</t>
+<i>880</i><c>Lukas</c><t>(Saya tidak membenarkan mereka mencederakan Cikgu dan Leo!)</t>
+<i>890</i><c>Giggas</c><t>Kamu lagi? Kamu ini tidak pernah mendapat pengajaran?</t>
+<i>900</i><c>Lukas</c><t>Pergi dari sini! Giggas! Sebelum kami membunuh kamu!</t>
+<i>910</i><c>Giggas</c><t>Pasukan Penggulat! Mari!</t>
+<i>920</i><c>Giggas</c><t>Menamatkan nyawa mereka, Pergi!</t>
+<i>930</i><c>Penggulat</c><t>Aye!</t>
+<i>940</i><c>Giggas</c><t>Ah......Saya tidak mati di sini! Berundur!</t>
+<i>950</i><c>Shaun</c><tKuasa Cikgu semakin lemah!</t>
+<i>960</i><c>Jenny</c><t>Kita tiada masa lagi! Pergi!</t>
+<i>970</i><c>Yaga</c><t>Terlalu banyak kuasa telah guna...... Kami telah kalah...... Wira, mungkin masa kami telah tamat.......</t>
+<i>980</i><c>Taylor</c><t>DJangan berputus asa, cikgu...... Gordon punya tentera sedang.......(pengsan)</t>
+<i>990</i><c>Artik</c><t>(Si Tua ini agak hebat! Jika saya hanya berbanding dengannya seorang demi seorang, saya pasti kalah!)</t>
+<i>1000</i><c>Tito</c><t>Pembesar Artik! Kami telah mendapat Pedang Wira!</t>
+<i>1010</i><c>Artik</c><t>Inilah arahan, Tito! Bawa Perang itu balik ke Mukjiza, saya akan menjaga Si Tua ini......</t>
+<i>1020</i><c>Tito</c><t>Haha! Aye!</t>
+<i>1030</i><c>Lukas</c><t>Cikgu! Taylor!</t>
+<i>1040</i><c>Artik</c><t>Eh? Oh! Banyak bodoh datang ke sinijuga! Seronok sangat! Marilah llawan dengan saya!</t>
+<i>1050</i><c>Shaun</c><t>Cikgu! Jawapkan saya! Sekarang kamu macam mana?</t>
+<i>1060</i><c>Yaga</c><t>Apakah kamu buat di sini? Pergi Kamu tidak dapat berbanding dengannya.</t>
+<i>1070</i><c>Yaga</c><t>Ah! (Pengsan)</t>
+<i>1080</i><c>Dru</c><t>Saya mahu membunuh kamu demi nenek moyang saya dan Naga!</t>
+<i>1090</i><c>Lukas</c><t>Dru!</t>
+<i>1100</i><c>Artik</c><t>Ini agak seronok! Marilah lawan! Bodoh!</t>
+<i>1120</i><c>Artik</c><t>Kamu hanya berlangkah kanan! Hanya langkah kanan!</t>
+<i>1130</i><c>Dru</c><t>Orang ini agak hebat.......</t>
+<i>1140</i><c>Shaun</c><t>Dia hebat sangat! Cikgu kami telah melemahkan kuasanya sebelum ini.</t>
+<i>1150</i><c>Lukas</c><t>Saya tidak tahu bagaimana kami tahan lagi....... Saya letih sangat!</t>
+<i>1160</i><c>Artik</c><t>Cukup! Sekarang kamu mati!</t>
+<i>1170</i><c>Gordon</c><t>Serang!</t>
+<i>1180</i><c>Pasukan Berkuda</c><t>Demi Naga</t>
+<i>1190</i><c>Lukas</c><t>Gordon punya tentera! Mereka telah datang!</t>
+<i>1200</i><c>Artik</c><t>(Ah! Saya tidak boleh tahan lagi! Si Tua itu telah membazirkan banyak tenaga saya!)</t>
+<i>1210</i><c>Artik</c><t>Kamu sangat langkah kanan! Tapi kamu akan mati pada masa yang lain!</t>
+<i>1220</i><c>Gordon</c><t>Mereka berundur. Memang betul apabila nampak bilangan tentera ini!</t>
+<i>1230</i><c>Gordon</c><t>Rawatkan siapa yang masih hidup. Tanam siapa yang mati! Kerja Sekarang!</t>
+<i>1240</i><c>---</c><t>--- Peringkat Tamat ---
+(Terima Kasih Lai Zhen Yean untuk penerjemahan!)</t>

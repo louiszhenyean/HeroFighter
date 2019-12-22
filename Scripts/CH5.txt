@@ -1,0 +1,221 @@
+<i>10</i><c>---</c><t>Venue: Training Ground in Phoenix</t>
+<i>20</i><c>Shawn</c><t>Look!  The soldiers in blue... aren't they our missing soldiers?</t>
+<i>30</i><c>Drew</c><t>Jason... without your help, we would of never found this place, we are thankful!</t>
+<i>40</i><c>Jason</c><t>It's my pleasure.  Keep in mind though, these are only SOME of the soldiers... the Sword of Hero is yet to be located.</t>
+<i>50</i><c>Lucas</c><t>(Damn!  My brother is nowhere to be found...)</t>
+<i>60</i><c>Shawn</c><t>The Phoenix seems to also be keeping citizens. What would they want with them?</t>
+<i>70</i><c>Taylor</c><t>Shh!  They're about to do something.</t>
+<i>80</i><c>Sorcerer</c><t>Hah!  These Dragon people are as healthy as they get!  They'll be an excellent specimen for our experiments!</t>
+<i>90</i><c>Sorcerer</c><t>Soldiers, bring the swordsman to me!</t>
+<i>100</i><c>Infantry</c><t>Yes, Sir!</t>
+<i>110</i><c>Sorcerer</c><t>Drink this potion...  Drink it!</t>
+<i>120</i><c>Swordsman</c><t>I refuse, I shall not kneel down to a madman!</t>
+<i>130</i><c>Sorcerer</c><t>So be it!  Soldiers!  Kill his family!</t>
+<i>140</i><c>Infantry</c><t>As you wish!</t>
+<i>150</i><c>Villager</c><t>Brother...</t>
+<i>160</i><c>Swordsman</c><t>WHAT?!  NO!</t>
+<i>170</i><c>Sorcerer</c><t>It is the penalty for disobeying your superiors!</t>
+<i>180</i><c>Sorcerer</c><t>Now drink this before I do the same to the rest of your family!</t>
+<i>190</i><c>Swordsman</c><t>... I... I will...</t>
+<i>200</i><c>Shawn</c><t>Those barbarians!</t>
+<i>210</i><c>Drew</c><t>We have to do something, like, right now!</t>
+<i>220</i><c>Taylor</c><t>Hold your position, do you want us to get caught?  We have a mission to complete.</t>
+<i>230</i><c>Jason</c><t>We can't just stand here and watch our people get tortured and killed.</t>
+<i>240</i><c>Lucas</c><t>(What would Leo do in this situation?)</t>
+<i>250</i><c>Sorcerer</c><t>Yes!  Drink it up!  All of it!</t>
+<i>260</i><c>Swordsman</c><t>Guuh..</t>
+<i>270</i><c>Swordsman</c><t>Ah?!</t>
+<i>280</i><c>Sorcerer</c><t>(It works!  It still needs some adjustments, but this steroid is just what we need!)</t>
+<i>290</i><c>Swordsman</c><t>Who...</t>
+<i>300</i><c>Swordsman</c><t>-Wheeze-</t>
+<i>310</i><c>Sorcerer</c><t>GAAAAAAAH!  Failed AGAIN!  If it won't work on a MAN, maybe it will work on a woman, Soldiers, bring a woman to me!</t>
+<i>320</i><c>Infantry</c><t>Yes, Sir!</t>
+<i>330</i><c>Woman</c><t>What? Get your hands off me!</t>
+<i>340</i><c>Villager</c><t>No, leave her alone!  That's my wife you're handling!</t>
+<i>350</i><c>Sorcerer</c><t>The death of your peer taught you nothing!  Soldiers, execute him!</t>
+<i>360</i><c>Villager</c><t>Gyah!</t>
+<i>370</i><c>Woman</c><t>No!</t>
+<i>380</i><c>Infantry</c><t>Die!</t>
+<i>390</i><c>Lucas</c><t>ENOUGH!</t>
+<i>400</i><c>Lucas</c><t>This is no way to treat your fellow man, you scumbag!</t>
+<i>410</i><c>Sorcerer</c><t>Ah!  A spy from the state of dragon, are you?</t>
+<i>420</i><c>Taylor</c><t>A fight is in inevitable!  Brothers, show ourselves!</t>
+<i>430</i><c>Sorcerer</c><t>You Dragon folks are stupider than I thought, you plan to fight us with only five men?</t>
+<i>440</i><c>Taylor</c><t>Let's make this quick!</t>
+<i>450</i><c>Lucas</c><t>Your barbaric acts have come to an end, sorcerer!</t>
+<i>460</i><c>Sorcerer</c><t>I... DON'T!</t>
+<i>470</i><c>Drew</c><t>You are a coward and must pay the consequence!  DIE!</t>
+<i>480</i><c>Taylor</c><t>Hold it,  Drew.</t>
+<i>490</i><c>Taylor</c><t>Where is the Sword of Hero and the soldiers you kidnapped?  If you tell us, we will spare your life.</t>
+<i>500</i><c>Sorcerer</c><t>Sword...  What sword?  I never heard of such a thing...  but I can tell you this.</t>
+<i>510</i><c>Sorcerer</c><t>The captured men from your temple are prisoners of the castle's dungeon, it's guarded by General Sinan, the big three are going to be there, too.</t>
+<i>520</i><c>Shawn</c><t>The big three?  When are they arriving?</t>
+<i>530</i><c>Sorcerer</c><t>I don't know entirely!  Sometime tomorrow!</t>
+<i>540</i><c>Taylor</c><t>Looks like he's telling the truth.</t>
+<i>550</i><c>Drew</c><t>...  This is for the innocent civilians you tortured in cold blood!</t>
+<i>560</i><c>Sorcerer</c><t>Gaugh.... (Faint)</t>
+<i>570</i><c>Taylor</c><t>INCOMING!</t>
+<i>580</i><c>Cavalry</c><t>How dare you Dragon folk intrude in our territory!</t>
+<i>590</i><c>Jason</c><t>...  Are those demon monsters?!</t>
+<i>600</i><c>Drew</c><t>It's... it's not possible, those things only exist inside the demon realm...</t>
+<i>610</i><c>Cavalry</c><t>General Sinan found a way to train these beasts, the whole lot of you have been stupid enough to intrude in OUR territory, now, you must pay the price! Brothers, surround them!</t>
+<i>620</i><c>Taylor</c><t>(Can't let them surround us...)</t>
+<i>630</i><c>Taylor</c><t>Heroes, fight your way to the East, go!</t>
+<i>640</i><c>Sorcerer</c><t>There are dragon spies up ahead!  After them!</t>
+<i>650</i><c>Cavalry</c><t>Don't let them get away!  Kill them!</t>
+<i>660</i><c>Villager</c><t>I'm exhausted...  I'm running out of breath...</t>
+<i>670</i><c>Lucas</c><t>They're trying to exhaust us while they're riding their way here...  This is not good!</t>
+<i>680</i><c>Drew</c><t>Yer the smart one!  Think o' somethin!</t>
+<i>690</i><c>Shawn</c><t>Wait...  They're really split up, the fast ones are too far ahead from the ones in the back.  We SHOULD be able to take those out!</t>
+<i>700</i><c>Taylor</c><t>Good eye!  This is our chance, turn around and fight!</t>
+<i>710</i><c>Drew</c><t>I tell ya it's like shootin' fish in a barrel.</t>
+<i>720</i><c>Shawn</c><t>This was in no way our victory.  They've identified us.  Now this area is going to be swarming with Phoenix folks.</t>
+<i>730</i><c>Jason</c><t>More of them are approaching...  we can't keep this up much longer!</t>
+<i>740</i><c>Lucas</c><t>I can't help but feel like this is my fault...  again.</t>
+<i>750</i><c>Infantry</c><t>Master Lucas, please don't say that.  If it weren't for you we would of gotten killed.</t>
+<i>760</i><c>Woman</c><t>Aye!  Thank you, Lucas!</t>
+<i>770</i><c>Lucas</c><t>...</t>
+<i>780</i><c>Taylor</c><t>Ugh!  Why didn't I think of this before...</t>
+<i>790</i><c>Taylor</c><t>(Shadow Clone!)</t>
+<i>800</i><c>Taylor</c><t>Quickly, hide!</t>
+<i>810</i><c>Cavalry</c><t>There they are!  Don't let them get away!</t>
+<i>820</i><c>Lucas</c><t>Great idea, Taylor, you saved our lives!</t>
+<i>830</i><c>Drew</c><t>I hate to burst everybody's bubble, but what do do we do now?</t>
+<i>840</i><c>Taylor</c><t>...... We go to the castle to save our brethren.</t>
+<i>850</i><c>Infantry</c><t>What?!  But they already know who we are...  we'll get attacked on sight, isn't it too risky?</t>
+<i>860</i><c>Taylor</c><t>A large percentage of their troops are off chasing our clones.  It should be alot easier breaking into the castle now.</t>
+<i>870</i><c>Infantry</c><t>Oh...</t>
+<i>880</i><c>Shawn</c><t>The sorcerer said that tomorrow the big three are showing up in the castle, so right now is the time to break in.</t>
+<i>890</i><c>Taylor</c><t>Yup.  Even though my clones have a lot of energy to run, they disappear after a few hours.</t>
+<i>900</i><c>Taylor</c><t>All we'll do is save our troops and leave as soon as possible.  We will not risk finding the sword this time, though.</t>
+<i>910</i><c>Taylor</c><t>Jason.  It's unnecessary to take you and the villagers with us to the castle.  We don't want to risk anymore lives, please, take your men and go to the state of Dragon.</t>
+<i>920</i><c>Jason</c><t>That is not necessary.  Even without me, my men are capable of arriving to Dragon safely,  I'm going to stay with you, I insist.</t>
+<i>930</i><c>Taylor</c><t>As you wish, Jason, onward!</t>
+<i>940</i><c>---</c><t>Venue: Castle Dungeon</t>
+<i>950</i><c>Bandit</c><t>What's with all the ruckus coming from outside?!</t>
+<i>960</i><c>Daggerman</c><t>Pay attention when news is being spread!  Some Dragon spies were seen around this area, so we've increased our security around these places!</t>
+<i>970</i><c>Bandit</c><t>Spies from Dragon?  What are they planing to do?  Break in and save their troops?  Maybe they're after the swo...</t>
+<i>980</i><c>Daggerman</c><t>Don't say such shenanigans!  They wouldn't do something as stupid as to try to break in HERE!</t>
+<i>990</i><c>Lucas</c><t>Well, it's confirmed, that's our men in those prison cells.</t>
+<i>1000</i><c>Taylor</c><t>Let's go!</t>
+<i>1010</i><c>Bandit</c><t>Well!  Speak of the devil!  What was that you said, comrade?  They AREN'T stupid enough to break in here?</t>
+<i>1020</i><c>Shawn</c><t>Your days are over.</t>
+<i>1030</i><c>Lucas</c><t>That was way too easy...</t>
+<i>1040</i><c>Taylor</c><t>Hide their bodies.  We can use their armor to disguise ourselves.</t>
+<i>1050</i><c>Shawn</c><t>Alright.</t>
+<i>1060</i><c>Bandit</c><t>This wine is great!  Where did you get it?</t>
+<i>1070</i><c>Daggerman</c><t>General Titto gave me this wine.  It was for letting have some "alone time" with General Sinan. *Snicker*</t>
+<i>1080</i><c>Drew</c><t>These guys seem defenseless.</t>
+<i>1090</i><c>Taylor</c><t>Take them out!  Quickly!</t>
+<i>1100</i><c>Jason</c><t>Got em!</t>
+<i>1110</i><c>Drew</c><t>Those knock-out drugs...  aren't they...</t>
+<i>1120</i><c>Shawn</c><t>They seems to be used during interrogation.</t>
+<i>1130</i><c>Lucas</c><t>Forget about them, we have a mission to complete!</t>
+<i>1140</i><c>Drew</c><t>(Got wine and knock-out drugs)</t>
+<i>1150</i><c>Sinan</c><t>Telepathic victims, to the front line!</t>
+<i>1160</i><c>Swordsman</c><t>Aye!</t>
+<i>1170</i><c>Sinan</c><t>Telepathic victims, Kneel!</t>
+<i>1180</i><c>Swordsman</c><t>Aye!</t>
+<i>1190</i><c>Titto</c><t>General Sinan, I don't know how you did it, but your mind control is really going to help us out in this war!</t>
+<i>1200</i><c>Titto</c><t>Now we have an army of devoted soldiers who don't question ANYTHING!  They're like dogs!</t>
+<i>1210</i><c>Sinan</c><t>Don't bother me with your silly pep talk, General.  I am training my men.</t>
+<i>1220</i><c>Titto</c><t>Sinan...  You're so gorgeous!  Be my partner, I shall risk my life for you, if I have to!</t>
+<i>1230</i><c>Sinan</c><t>Don't even dream about it.  The only type of man I would ever love would have to be stronger than me!</t>
+<i>1240</i><c>Titto</c><t>I...</t>
+<i>1250</i><c>Shawn</c><t>(whisper) Mind control...  Aren't those our troops?</t>
+<i>1260</i><c>Jason</c><t>(whisper) They are, they're being controlled by that Sinan girl.</t>
+<i>1270</i><c>Lucas</c><t>(Leo, are you in there...?)</t>
+<i>1280</i><c>Taylor</c><t>(whisper) Let's sneak up on the two generals.  We can take them out easily that way.</t>
+<i>1290</i><c>Drew</c><t>(whisper) Good idea!</t>
+<i>1300</i><c>Titto</c><t>WHAT?!  Why are you bothering me?  I thought I told you to leave me and General Sinan alone, I gave you wine, didn't I?  Scram!</t>
+<i>1310</i><c>Jason</c><t>My apologies, general.  We came to tell you that some Dragon spies have been spotted in this area.</t>
+<i>1320</i><c>Titto</c><t>I know, I KNOW.  That's why you should be guarding the prison, now scram!  I'm having a very important conversation with general Sinan!</t>
+<i>1330</i><c>Sinan</c><t>Titto, these aren't our soldiers.</t>
+<i>1340</i><c>Taylor</c><t>(Take off the disguise)  Nice going, now they know!  Let's just fight them, then!</t>
+<i>1350</i><c>Titto</c><t>!!! HERO FIGHTERS?!</t>
+<i>1360</i><c>Sinan</c><t>Calm down, Titto.  They arrived just in time for me to try out my new personal army.</t>
+<i>1370</i><c>Shawn</c><t>Wait, what?  Those are our men!</t>
+<i>1380</i><c>Sinan</c><t>Heh.  Telepathic victims, kill.</t>
+<i>1390</i><c>Swordsman</c><t>Aye!</t>
+<i>1400</i><c>Lucas</c><t>Stop it!  We are your allies!  Wake up!</t>
+<i>1410</i><c>Taylor</c><t>There's no point in speaking to them, Lucas.  The only way to break the spell is to knock out their controller.</t>
+<i>1420</i><c>Shawn</c><t>An opening!</t>
+<i>1430</i><c>Titto</c><t>I won't let anybody hurt Sinan!  Not even scumbags like you, Hero Fighters!</t>
+<i>1440</i><c>Sinan</c><t>Heh.  Looks like these Telepathic victims are no match for them, Oh well.  I'm sure you "Heroes" miss your old comrade,  Leo. Come say hi!</t>
+<i>1450</i><c>Drew</c><t>Le... Leo?!</t>
+<i>1460</i><c>Lucas</c><t>Leo!  It's me, your brother!  Snap out of it!</t>
+<i>1470</i><c>Sinan</c><t>Well, isn't this a touching family reunion.  Leo, how about you kill him first?</t>
+<i>1480</i><c>Leo</c><t>AYE!</t>
+<i>1490</i><c>Lucas</c><t>Leo...</t>
+<i>1500</i><c>Taylor</c><t>Lucas!  Watch out, you idiot!</t>
+<i>1510</i><c>Shawn</c><t>This doesn't look good...</t>
+<i>1520</i><c>Lucas</c><t>Snap out of it, Leo!</t>
+<i>1530</i><c>Leo</c><t>Gah!</t>
+<i>1540</i><c>Jason</c><t>(Leo's too strong, even stronger than Taylor...)</t>
+<i>1550</i><c>Shawn</c><t>(Leo was always our second best warrior, no one could ever surpass him other than Eason...)</t>
+<i>1560</i><c>Drew</c><t>Dangnamit I've had enough of this here fiddle daddling!  We have to take out that Sinan woman!</t>
+<i>1570</i><c>Titto</c><t>As much as you try, you filthy rat, I won't let you hurt Sinan!</t>
+<i>1580</i><c>Taylor</c><t>I'll take on Titto, the rest of you, go for Sinan!</t>
+<i>1590</i><c>Shawn</c><t>With pleasure.</t>
+<i>1600</i><c>Titto</c><t>Gah... I.. Sinan... (faint)</t>
+<i>1610</i><c>Sinan</c><t>Impossible... (faint)</t>
+<i>1620</i><c>Leo</c><t>I... where am I?  What's going on?</t>
+<i>1630</i><c>Lucas</c><t>Leo!  It's me, Lucas!</t>
+<i>1640</i><c>Leo</c><t>Lucas...?</t>
+<i>1650</i><c>Jason</c><t>Looks like the telepathic spell has been broken.</t>
+<i>1660</i><c>Leo</c><t>Who are you?  A new ally?</t>
+<i>1670</i><c>Jason</c><t>My name's Jason.  We can skip the introductions for now, we need to get out of here before more Phoenix troopers arrive.</t>
+<i>1680</i><c>Taylor</c><t>!!!  Two people are coming.</t>
+<i>1690</i><c>Shawn</c><t>Their power level is high, in comparison to Iczzy.  It's possible that the big three are nearby...</t>
+<i>1700</i><c>Swordsman</c><t>Only two?  We outnumber them, what is there to fear?</t>
+<i>1710</i><c>Taylor</c><t>You don't seem to understand.  These two people have the power to finish us all off within a few seconds, they're like monsters!</t>
+<i>1720</i><c>Lucas</c><t>We have to do something!</t>
+<i>1730</i><c>Taylor</c><t>Fighting is not an option.  Hide these bodies first...</t>
+<i>1740</i><c>Taylor</c><t>Jason, since you can talk in a Phoenix accent, you talk to them, use one of the suits from the Phoenix guardians.</t>
+<i>1750</i><c>Taylor</c><t>The rest of us have to pretend to be under mind control.  It's our only hope.</t>
+<i>1760</i><c>Drew</c><t>What are we waiting for?!  There's no time to lose!</t>
+<i>1770</i><c>Raye</c><t>How strange.  All the prison guards are nowhere to be seen.</t>
+<i>1780</i><c>Heater</c><t>I can sense a large group of people in that room, we should go ask them about what's going on here.</t>
+<i>1790</i><c>Jason</c><t>Masters...  What can I do for you?</t>
+<i>1800</i><c>Raye</c><t>We're looking for Sinan and Titto, where are they?</t>
+<i>1810</i><c>Heater</c><t>AND the prison guards.</t>
+<i>1820</i><c>Jason</c><t>Some Dragon spies were spotted,  General Titto, Sinan, and the prison guards ran after them.  They should be back soon.</t>
+<i>1830</i><c>Raye</c><t>Funny.  I don't remember anybody telling us about that.  What are you hiding, Soldier?</t>
+<i>1840</i><c>Jason</c><t>...</t>
+<i>1850</i><c>Shawn</c><t>(Uh-oh)</t>
+<i>1860</i><c>Heater</c><t>Well?  Answer us!</t>
+<i>1870</i><c>Jason</c><t>... My Masters, Titto told me not to inform you because he wanted to do this with Sinan...</t>
+<i>1880</i><c>Raye</c><t>HAH!  Titto told you to do that?  Why am I not surprised?  He's proven to us to be an idiot, yet again!</t>
+<i>1890</i><c>Heater</c><t>Who cares about Titto anyway?  We want Leo, give him to us!</t>
+<i>1900</i><c>Jason</c><t>(They want Leo, what should I say?)</t>
+<i>1910</i><c>Raye</c><t>Answer me, soldier.</t>
+<i>1920</i><c>Leo</c><t>(whisper to Lucas) Don't worry about me, escape when I go with them.</t>
+<i>1930</i><c>Lucas</c><t>(whisper to Leo) What?!  We can't...</t>
+<i>1940</i><c>Leo</c><t>Master...  It is I,  Leo.</t>
+<i>1950</i><c>Heater</c><t>Ah!  Just the man we wanted to see!  Come with us!</t>
+<i>1960</i><c>Lucas</c><t>!!!</t>
+<i>1970</i><c>Leo</c><t>Aye.</t>
+<i>1980</i><c>Jason</c><t>My Lord,  May I ask why you need Leo?</t>
+<i>1990</i><c>Raye</c><t>You are in no position to interrogate me, Soldier!</t>
+<i>2000</i><c>Jason</c><t>General Sinan is very fond of this telepathic victim, she would be disappointed if she came back and he was missing.</t>
+<i>2010</i><c>Heater</c><t>We are taking him to the top floor to interrogate him about the Sword of Hero.  If Sinan wants him so badly, she can request it directly, understood?</t>
+<i>2020</i><c>Raye</c><t>Let's go, Heater, Iczzy is alone with the Sword, we don't want him to lose his patience, do we?</t>
+<i>2030</i><c>Leo</c><t>(Oh no...)</t>
+<i>2040</i><c>Taylor</c><t>(Uh oh.)</t>
+<i>2050</i><c>Lucas</c><t>Damn it!  They took Leo again!</t>
+<i>2060</i><c>Drew</c><t>There, there, buddy.  It couldn't be helped.</t>
+<i>2070</i><c>Taylor</c><t>We cannot leave Leo, even more so, the Sword, which they said is on the top floor.  As in, right here.</t>
+<i>2080</i><c>Shawn</c><t>And how are we going to retrieve them?</t>
+<i>2090</i><c>Taylor</c><t>... I don't know.</t>
+<i>2100</i><c>Jason</c><t>Well we can't just stand around and do nothing.  Even if it IS the big three!</t>
+<i>2110</i><c>Lucas</c><t>We have to do something!</t>
+<i>2120</i><c>Drew</c><t>I got myself an idea!  The drugs and wine we found, why don't we just mix em together and give it to the big three?</t>
+<i>2130</i><c>Taylor</c><t>That's the smartest thing I've heard you say in your whole life, Drew!</t>
+<i>2140</i><c>Shawn</c><t>Heh.  Looks like Drew is finally catching up to us.</t>
+<i>2150</i><c>Drew</c><t>... Now that hurts my feelings!  But we don't have time to waste!</t>
+<i>2160</i><c>Taylor</c><t>Soldiers, you go back to Dragon, ask Master to bring backup at the border, quickly!</t>
+<i>2170</i><c>Swordsman</c><t>Yes, sir!</t>
+<i>2180</i><c>Taylor</c><t>Let's disguise ourselves again,  We have to get to the top floor and hope this works.</t>
+<i>2190</i><c>Lucas</c><t>(Leo, we're coming for you!)</t>
+<i>2200</i><c>---</c><t>--- Stage Finshed ---
+(Thanks William Piper for helping translation!)</t>

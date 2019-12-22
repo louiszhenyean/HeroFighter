@@ -1,0 +1,125 @@
+<i>10</i><c>---</c><t>The Temple of Hero is a military organization, the strongest in the state of Dragon.  For centuries, the Temple raised and trained the strongest warriors...</t>
+<i>20</i><c>---</c><t>Every time the state of Dragon was under attack,  The temple's warriors known only as the "Hero Fighters" would defend the state, always resulting in victory for Dragon....</t>
+<i>30</i><c>---</c><t>Until now...</t>
+<i>40</i><c>Lucas</c><t>We made it...</t>
+<i>50</i><c>Leo</c><t>Is that... Lucas?!  What happened?  Why aren't you at the gate?</t>
+<i>60</i><c>Lucas</c><t>My brother, the Phoenix has broken our truce!  They took over the gate and they're heading here now!</t>
+<i>70</i><c>Jenny</c><t>You three!  You require medical attention right now!  Come with me!</t>
+<i>80</i><c>Shawn</c><t>The Phoenix has gathered a large army heading for the temple right now.  Inform Master at once!</t>
+<i>90</i><c>Infantry</c><t>As you wish, Sir!</t>
+<i>100</i><c>Titto</c><t>Well you three just made things alot easier!</t>
+<i>110</i><c>Drew</c><t>What the?!  These runts are quick!</t>
+<i>120</i><c>Titto</c><t>Giggs, Bring the rest of the troops here!  I've got some cockroaches to smash!</t>
+<i>130</i><c>Giggs</c><t>With pleasure, General Titto!</t>
+<i>140</i><c>Drew</c><t>Beat it, betrayer!  You have no business here!</t>
+<i>150</i><c>Titto</c><t>My business is with this temple!  Now you either run away like a sissy, or perish!</t>
+<i>160</i><c>Leo</c><t>Lucas!</t>
+<i>170</i><c>Titto</c><t>You roaches aren't so tough after all, are ya?!  I can keep this all day!</t>
+<i>180</i><c>Titto</c><t>Giggs, charge!</t>
+<i>190</i><c>Giggs</c><t>With pleasure, General!</t>
+<i>200</i><c>Jenny</c><t>Leo, we can't just sit here and take this.  We must act, now!</t>
+<i>210</i><c>Leo</c><t>Don't doubt Master's power, Jenny.  Taylor and him can take care of themselves.  What worries me is the incoming army...</t>
+<i>220</i><c>Leo</c><t>Jenny, your orders are to take Lucas's party to the west.  Heal them, contact General Gordon, and tell him to bring reinforcements.</t>
+<i>230</i><c>Leo</c><t>With Gordon's help, we can most likely defend the temple before it's too late.</t>
+<i>240</i><c>Jenny</c><t>Wh... What about you, Leo?</t>
+<i>250</i><c>Leo</c><t>I have business with this "Titto" Guy.  I have to buy you enough time to reach Gordon.  Now GO!</t>
+<i>260</i><c>Titto</c><t>All I hear is blabbering coming from ya!  Come get some!</t>
+<i>270</i><c>Leo</c><t>I'm not afraid of you.</t>
+<i>280</i><c>Titto</c><t>Huh...?  He didn't even flinch?!</t>
+<i>290</i><c>Leo</c><t>Once I see your moves, they won't work on me!</t>
+<i>300</i><c>Jenny</c><t>Leo, we're off, be careful!</t>
+<i>310</i><c>Leo</c><t>Did I NOT give you orders to leave?  GO!</t>
+<i>320</i><c>Titto</c><t>Gah...  Even if I cannot take you down alone, I still have an army!  You're dead!</t>
+<i>330</i><c>Titto</c><t>Soldiers, Surround him,  Kill him!</t>
+<i>340</i><c>Infantry</c><t>Aye!</t>
+<i>350</i><c>Titto</c><t>I...  How...  what are you?!</t>
+<i>360</i><c>Leo</c><t>You never learn not to underestimate your opponent, do you, Titto?</t>
+<i>370</i><c>Leo</c><t>!!!  What...  I feel a great power coming...  What is that?</t>
+<i>380</i><c>Iczzy</c><t>Amazing!  Even when the odds are against you, you Hero Fighters always find a way to weasel yourself out of things, don't you?!</t>
+<i>390</i><c>Titto</c><t>Lord Iczzy has arrived...</t>
+<i>400</i><c>Titto</c><t>Now you've done it!  Lord Iczzy is one of the Big three!  You're dead!</t>
+<i>410</i><c>Leo</c><t>(One of the big three?  Uh-oh...)</t>
+<i>420</i><c>Leo</c><t>(And a large army... ah crud...)</t>
+<i>430</i><c>Iczzy</c><t>Your time is up, HERO!</t>
+<i>440</i><c>Jenny</c><t>Lucas, wake up!</t>
+<i>450</i><c>Lucas</c><t>Wh.. What happened?  Where am I?  Where's Leo?</t>
+<i>460</i><c>Shawn</c><t>Leo stayed behind to buy us time at the entrance.  He was fighting Titto when we left.</t>
+<i>470</i><c>Jenny</c><t>When we left we felt a huge power source from where Leo was, after that, Leo's life force disappeared.</t>
+<i>480</i><c>Infantry</c><t>We're afraid he was...</t>
+<i>490</i><c>Lucas</c><t>Impossible!  Leo would not just die like that!</t>
+<i>500</i><c>Drew</c><t>Darn it!  If only we wouldn't of left the gate, none of this would of happened!</t>
+<i>510</i><c>Shawn</c><t>It was a mistake by our part.</t>
+<i>520</i><c>Lucas</c><t>I have to go.  I have to get to the temple!</t>
+<i>530</i><c>Jenny</c><t>I cannot allow that, Lucas.  You are to stay and rest here!  That's an order!</t>
+<i>540</i><c>Lucas</c><t>Leo is NOT dead!  I know it!  I'm going, with or without you!</t>
+<i>550</i><c>Jenny</c><t>We have already contacted Gordon.  His troops are on their way,  till then, you are to stay here as instructed!</t>
+<i>560</i><c>Lucas</c><t>No!  I can't wait that long,  I have to save Leo!</t>
+<i>570</i><c>Jenny</c><t>Then you leave me no choice.</t>
+<i>580</i><c>Lucas</c><t>Don't force me into this, Jenny!</t>
+<i>590</i><c>Shawn</c><t>What are you two doing?!  Stop wasting your energy on each other!  You're both acting like kids!</t>
+<i>600</i><c>Jenny</c><t>......</t>
+<i>610</i><c>Lucas</c><t>Listen to me, Jenny.  If we don't do anything right now,  Our master and the rest of the temple might die soon!</t>
+<i>620</i><c>Lucas</c><t>I know Leo is alive!  He's just in danger, that's why we have to do something!</t>
+<i>630</i><c>Jenny</c><t>I...</t>
+<i>640</i><c>Jenny</c><t>Okay... I'll go with you.  Soldiers, tell Gordon to meet us at the temple.</t>
+<i>650</i><c>Drew</c><t>Then it's settled!  We're off!</t>
+<i>660</i><c>Yaga</c><t>General of the Phoenix army...  What is the meaning of this?!  We had a truce!</t>
+<i>670</i><c>Iczzy</c><t>Just come to show you, old man!  All is fair in love and war!  Today is the day the State of Dragon falls!</t>
+<i>680</i><c>Yaga</c><t>(Eason, Legge and his troops are guarding the northern border.  What we have left here are no match for them... is this really our end?)</t>
+<i>690</i><c>Taylor</c><t>Master Yaga!  You taught us never to give up!  We can still scare the troops off if we just take out their leader!</t>
+<i>700</i><c>Iczzy</c><t>I heard that!  It's not like I was going to spare you, anyway, but I think I'll slaughter you here and now!</t>
+<i>710</i><c>Taylor</c><t>Holy smokes!</t>
+<i>720</i><c>Archer</c><t>That's... that's insane!</t>
+<i>730</i><c>Yaga</c><t>This... This is not going to be an easy battle.</t>
+<i>740</i><c>Lucas</c><t>Ugh!  Did you feel that?  I felt a strong power wave coming from the temple...  it wasn't one of ours, either.</t>
+<i>750</i><c>Jenny</c><t>It's the same one I felt when Leo was fighting.</t>
+<i>760</i><c>Shawn</c><t>There's an army at the gate.  If we get there in time we can aid Master and his troops.</t>
+<i>770</i><c>Drew</c><t>I hope Master can take all that beatin' and live through it...</t>
+<i>780</i><c>Lucas</c><t>We've got company!</t>
+<i>790</i><c>Wrestler</c><t>The Hero Fighters!  Catch them and take them alive!  There's a bounty on them!</t>
+<i>800</i><c>Infantry</c><t>Aye!</t>
+<i>810</i><c>Shawn</c><t>We're too late...</t>
+<i>820</i><c>Drew</c><t>Where is Leo?  I can't locate alot of our comrades!  They've gone missing!</t>
+<i>830</i><c>Jenny</c><t>Wondering where they disappeared to won't do anything, Drew.  We have to keep going.</t>
+<i>840</i><c>Lucas</c><t>Hey!  That man is still conscious!</t>
+<i>850</i><c>Infantry</c><t>The gate... lost... Master... Danger... help...</t>
+<i>860</i><c>Infantry</c><t>Ugh... (faint)</t>
+<i>870</i><c>Shawn</c><t>Hurry!  We have to aid the Temple!</t>
+<i>880</i><c>Lucas</c><t>(I won't let them hurt Master and Leo!)</t>
+<i>890</i><c>Giggs</c><t>You again?!  Don't you dogs ever learn to stay down?</t>
+<i>900</i><c>Lucas</c><t>Get out of our way, Giggs!  Before we make you get out!</t>
+<i>910</i><c>Giggs</c><t>Wrestler Troop!  Come forward!</t>
+<i>920</i><c>Giggs</c><t>Finish off these low lives!  Go!</t>
+<i>930</i><c>Wrestler</c><t>Aye!</t>
+<i>940</i><c>Giggs</c><t>Ugh... I'm not dying here!  Retreat!</t>
+<i>950</i><c>Shawn</c><t>I... Master's power is fading...</t>
+<i>960</i><c>Jenny</c><t>We have no time to lose then, let's go!</t>
+<i>970</i><c>Yaga</c><t>Such power being used for chaos...  We've been defeated,  Heroes. Perhaps, our time has come...</t>
+<i>980</i><c>Taylor</c><t>Don't give up,  Master...  Gordon's... army... is... (faint)</t>
+<i>990</i><c>Iczzy</c><t>(For a geezer, this man is strong!  Good thing our army is superior!  I don't think I could beat him on an even match!)</t>
+<i>1000</i><c>Titto</c><t>Lord Iczzy!  We have the Sword of Hero!</t>
+<i>1010</i><c>Iczzy</c><t>You know your orders, Titto!  Take the sword back to Phoenix.   I'll take care of this old man and his little group.</t>
+<i>1020</i><c>Titto</c><t>Haha!  Aye!</t>
+<i>1030</i><c>Lucas</c><t>Master!  Taylor!</t>
+<i>1040</i><c>Iczzy</c><t>Eh?  Oh, more pigs to the slaughter!  How wonderful!  Come to keep me entertained a little longer!</t>
+<i>1050</i><c>Shawn</c><t>Master!  Answer me!  Are you ok?</t>
+<i>1060</i><c>Yaga</c><t>What are you doing here?!  Run!  You're no match for him...  Leave!</t>
+<i>1070</i><c>Yaga</c><t>Ugh! (faint)</t>
+<i>1080</i><c>Drew</c><t>By the power of my ancestors and Dragon, I will kill you!</t>
+<i>1090</i><c>Lucas</c><t>Drew!</t>
+<i>1100</i><c>Iczzy</c><t>This will be fun!  Come at me, fools!</t>
+<i>1110</i><c>Jenny</c><t>We... We defeated him?!</t>
+<i>1120</i><c>Iczzy</c><t>You got lucky!  You're still trash!  It was all luck!  A lucky shot!</t>
+<i>1130</i><c>Drew</c><t>This feller's strong!  He took our woopin' like it was notin'!</t>
+<i>1140</i><c>Shawn</c><t>He IS strong.  Master Yaga must of weakened him before us.</t>
+<i>1150</i><c>Lucas</c><t>I don't know how much more of this we can take...  I'm running out of breath...</t>
+<i>1160</i><c>Iczzy</c><t>Enough of this!  Now, you die!</t>
+<i>1170</i><c>Gordon</c><t>Charge!</t>
+<i>1180</i><c>Cavalry</c><t>For Dragon!</t>
+<i>1190</i><c>Lucas</c><t>Gordon's Army!  They've finally arrived!</t>
+<i>1200</i><c>Iczzy</c><t>(Bah!  I can't take on THAT!  That old man drained too much of my energy!)</t>
+<i>1210</i><c>Iczzy</c><t>Looks like you rats are in luck!  Guess you'll just have to die another day!</t>
+<i>1220</i><c>Gordon</c><t>They retreated.  Typical of an army full of cowards.</t>
+<i>1230</i><c>Gordon</c><t>Heal those who are alive.  Bury the dead.  Get busy!</t>
+<i>1240</i><c>---</c><t>--- Stage Finshed ---
+(Thanks William Piper for helping translation!)</t>

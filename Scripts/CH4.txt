@@ -1,0 +1,114 @@
+<i>10</i><c>Lucas</c><t>What a mess.  If only we could of acted sooner, none of this would of happen.</t>
+<i>20</i><c>Drew</c><t>If we were stronger we would probably stand a chance against them vermin!</t>
+<i>30</i><c>Shawn</c><t>As usual, you're biting off more than you can chew, Drew.  The big three are too strong for us, especially now that Master is injured.</t>
+<i>40</i><c>Shawn</c><t>Uh... Lucas?</t>
+<i>50</i><c>Lucas</c><t>I'm training!  Like Drew said, we need to get stronger!  Never give up!</t>
+<i>60</i><c>Drew</c><t>Woopie!  Finally I get to see some action!  Let's put all we got into it!</t>
+<i>70</i><c>Shawn</c><t>Guess I have no choice, then, on guard!</t>
+<i>80</i><c>Shawn</c><t>Gotta give you credit,  Lucas, you've gotten stronger.</t>
+<i>90</i><c>Lucas</c><t>Ever since we fought Iczzy I've felt stronger for some reason,  I understand many things about my strength that I didn't use to understand.</t>
+<i>100</i><c>Drew</c><t>If we keep doin' this we might take on the big three some day!</t>
+<i>110</i><c>Gordon</c><t>I hate to be eavesdropping.  Not all the training in the world will help you against the big three!</t>
+<i>120</i><c>Lucas</c><t>General Gordon!  What makes you say that?</t>
+<i>130</i><c>Gordon</c><t>The Phoenix not only has a bigger army than us, but also have some of our men.  If we were to plan to defeat them, we would need to outsmart them.</t>
+<i>140</i><c>Shawn</c><t>Gordon is right.  The army difference is part of the reason why we lost.</t>
+<i>150</i><c>Drew</c><t>General Gordon, teach us how to lead an army!</t>
+<i>160</i><c>Gordon</c><t>Hmmm...  All right, come with me.</t>
+<i>170</i><c>Gordon</c><t>There are four kinds of classes in the field of war:  Infantries, Cavalries, Archers and Supports.</t>
+<i>180</i><c>Gordon</c><t>Infantries are the outer walls of the army;  they protect the archers and the supports, they also give us Heroes a chance to rest and heal.  They're also good at fighting off archers.</t>
+<i>190</i><c>Gordon</c><t>Cavalries rush into battle, they can split up an army quite effectively if they do well.</t>
+<i>200</i><c>Gordon</c><t>Archers can attack from a safe distance.  Great against cavalries.</t>
+<i>210</i><c>Gordon</c><t>Supports are not that good when it comes to hand to hand combat, but their healing is what makes them vital to the group.</t>
+<i>220</i><c>Lucas</c><t>General... We know this information...  but how can we organize them?</t>
+<i>230</i><c>Gordon</c><t>When against infantries, use Heroes or your own infantries to keep them away from your archers.  Then cavalries and archers should finish them off.</t>
+<i>240</i><c>Shawn</c><t>So we should defend our archers.  Best way is to use cavalries to split the infantries off, right?</t>
+<i>250</i><c>Gordon</c><t>Correct.  If you don't have enough cavalries, don't try to charge into the center of the battle, you'll get surrounded!  The cavalries should attack from the side in that case, if possible.</t>
+<i>260</i><c>Drew</c><t>That right there is dandy and all, but what if they have different types of fighters?</t>
+<i>270</i><c>Gordon</c><t>You mean archers and supports?  They're weak in hand to hand combat, get in their faces and they're pretty much dead.</t>
+<i>280</i><c>Gordon</c><t>Cavalries can cause alot of trouble.  Wait until they're distracted or you have archers firing at them.  Patience is key!</t>
+<i>290</i><c>Lucas</c><t>Your teachings will be used well,  General Gordon, thank you!</t>
+<i>300</i><c>Gordon</c><t>We COULD put your skills to the test right now, we could use my own army.  Don't worry about getting hurt, it's only practice.</t>
+<i>310</i><c>Shawn</c><t>It's not like we have anything better to do.</t>
+<i>320</i><c>Jenny</c><t>What's going on here?</t>
+<i>330</i><c>Drew</c><t>General Gordon is letting us practice our organization skills with his army!  We were about t' get started!</t>
+<i>340</i><c>Jenny</c><t>I see.  Would it bother you if I joined you?</t>
+<i>350</i><c>Gordon</c><t>You know you can practice with us at any time,  Jenny, lets get started!</t>
+<i>360</i><c>Gordon</c><t>You three learn quick!  Great job!</t>
+<i>370</i><c>Yaga</c><t>They have much more to learn,  General Gordon.</t>
+<i>380</i><c>Gordon</c><t>Master Yaga!  You should be resting!</t>
+<i>390</i><c>Yaga</c><t>I have rested enough for today,  I still have about a month till I heal quickly.  There is still the matter of our men being hostages to the Phoenix.</t>
+<i>400</i><c>Taylor</c><t>Master Yaga, once Eason's troops arrive we'll be able to defend alot more appropriately.  You shouldn't worry too much.</t>
+<i>410</i><c>Lucas</c><t>Master Yaga... I must confess that I feel as though this is my fault for convincing Drew and Shawn to leave the gate, if only we knew...</t>
+<i>420</i><c>Yaga</c><t>The Phoenix is deceitful, Lucas,  even without lowering your guard they could of easily taken the gate by force.</t>
+<i>430</i><c>Gordon</c><t>Master Yaga, if I may speak...  I've informed the border patrols to be on the look out for the Phoenix.  I've also send out search parties to find our missing allies.</t>
+<i>440</i><c>Yaga</c><t>Your assistance is truly appreciated, general.</t>
+<i>450</i><c>Jenny</c><t>Master Yaga, I've always wondered why the Sword of Hero was of such importance, may I know why exactly it's so important?</t>
+<i>460</i><c>Yaga</c><t>Do you know about Lincoln?</t>
+<i>470</i><c>Jenny</c><t>If I'm not mistaken... he fought off the Demon Lord 15 years ago to bring us peace?</t>
+<i>480</i><c>Yaga</c><t>You know more than you think. The Demon Lord's objective was to wipe out the entire human race.</t>
+<i>490</i><c>Yaga</c><t>Even with Phoenix on our side, fighting the Demon Lord was... catastrophic, to say the least.  If he were to appear again, we would not likely live through it...</t>
+<i>500</i><c>Yaga</c><t>Our victory came at a price, the three sages of the Temple of Hero infused their souls into the Sword of Hero.</t>
+<i>510</i><c>Yaga</c><t>Lincoln then used that sword to defeat the Demon Lord.  Of course this cost the Sage's lives.</t>
+<i>520</i><c>Yaga</c><t>If it weren't for that sword, we wouldn't be here, neither would the Phoenix.</t>
+<i>530</i><c>Drew</c><t>The power of the three sages?  In one sword?!  Holy Smokes!</t>
+<i>540</i><c>Gordon</c><t>Lincoln lived through the demon war, though.  It was the Phoenix that killed him during a glee festival, poisoned his drink.</t>
+<i>550</i><c>Gordon</c><t>If they knew the power the sword contained they would of taken that on that night.</t>
+<i>560</i><c>Yaga</c><t>Since then we, the Hero Fighters have the sworn duty to protect that sword until the worthy holder shows up.  That is why the sword is so important!</t>
+<i>570</i><c>Shawn</c><t>... May we know why we didn't use it to defend against the Phoenix, then?</t>
+<i>580</i><c>Yaga</c><t>It's complicated, but to put it short;  You can't choose the sword, the sword chooses you,  only the chosen one can wield it and use its true potential.</t>
+<i>590</i><c>Jenny</c><t>How are we sure the sword will choose any of them, then?  How do we know they wont destroy it like they did to Lincoln...</t>
+<i>600</i><c>Yaga</c><t>That's what scares me, I don't know what their intentions are...</t>
+<i>610</i><c>Gordon</c><t>If they find out how to use its power, our country is in grave danger...</t>
+<i>620</i><c>Yaga</c><t>Taylor, as my most meticulous apprentice,  I'm sending you on a mission.  Go into the Phoenix Capital,  Find the sword and our missing Heroes.</t>
+<i>630</i><c>Taylor</c><t>I wont let you down, Master.</t>
+<i>640</i><c>Lucas</c><t>Hmm...</t>
+<i>650</i><c>Taylor</c><t>Huh?!  Show yourself, coward!  I know you're there!  Fight me!</t>
+<i>660</i><c>Lucas</c><t>You're the deceitful type, aren't you, Taylor?</t>
+<i>670</i><c>Taylor</c><t>Lucas?  What are you doing here?!  Your orders were to stay at the temple!  Head back now!</t>
+<i>680</i><c>Lucas</c><t>I... No, I have to help you.</t>
+<i>690</i><c>Taylor</c><t>Your orders were to stay at the temple, all you'll do is slow me down and get the Phoenix's attention!</t>
+<i>700</i><c>Lucas</c><t>I'm not going anywhere, Taylor.  It's my fault we lost the Temple,  I got us into this,  I'm fixing it.</t>
+<i>710</i><c>Taylor</c><t>... Oh for the love of;  Shawn!  Drew!  Stop hiding,  I know you're here as well!</t>
+<i>720</i><c>Drew</c><t>Well, Crud! Busted!</t>
+<i>730</i><c>Lucas</c><t>Why are you two here?  I didn't ask them to come...</t>
+<i>740</i><c>Shawn</c><t>It wasn't your fault entirely that we lost the gate, Lucas.  We hold responsibility for it aswell.</t>
+<i>750</i><c>Drew</c><t>Mhm!  We want to help you, Lucas!</t>
+<i>760</i><c>Taylor</c><t>Since the three of you are so DETERMINED,  I've come up with a solution for this.</t>
+<i>770</i><c>Shawn</c><t>Shadow clones...?</t>
+<i>780</i><c>Taylor</c><t>Defeat me, and I'll allow you to tag along.  Fail, and I will send you back to the temple.</t>
+<i>790</i><c>Shawn</c><t>You're holding back on us, I can feel it!</t>
+<i>800</i><c>Taylor</c><t>Enough of this.  I've made up my mind.</t>
+<i>810</i><c>Taylor</c><t>I will let you come along.  But you have to do as I say, understood?</t>
+<i>820</i><c>Lucas</c><t>Take our word for it.</t>
+<i>830</i><c>Taylor</c><t>My main objective as of now is to Retrieve the Sword.  It's relationship with The temple of far too important for me to let that by.</t>
+<i>840</i><c>Taylor</c><t>If we are to die for the sword's retrieval, we are to do so without hesitation, understood?</t>
+<i>850</i><c>Drew</c><t>Yes, yes, we understand...</t>
+<i>860</i><c>Shawn</c><t>Our life for the temple...</t>
+<i>870</i><c>Lucas</c><t>For Dragon!</t>
+<i>880</i><c>Taylor</c><t>You show no hesitation.  Very well, let's go.</t>
+<i>890</i><c>Taylor</c><t>!!!</t>
+<i>900</i><c>Jason</c><t>Bunch of fellas heading our way!  Kill them!</t>
+<i>910</i><c>Shawn</c><t>We've been spotted.</t>
+<i>920</i><c>Drew</c><t>It's a trap!</t>
+<i>930</i><c>Taylor</c><t>But... How did they know?</t>
+<i>940</i><c>Lucas</c><t>We must fight them all and keep them quiet!  We can't let them give us away!</t>
+<i>950</i><c>Jason</c><t>For a bunch of barbarians, you sure put up a fight!</t>
+<i>960</i><c>Taylor</c><t>Even when outnumbered, we result victorious.</t>
+<i>970</i><c>Jason</c><t>My brethren, stop fighting!</t>
+<i>980</i><c>Sickleman</c><t>Aye!</t>
+<i>990</i><c>Drew</c><t>What th-  HEY!  Things were just gettin' interestin'!</t>
+<i>1000</i><c>Jason</c><t>That accent...  You're from the state of Dragon!</t>
+<i>1010</i><c>Lucas</c><t>And what if we are?</t>
+<i>1020</i><c>Jason</c><t>We were Dragon folks as well.  The Phoenix raided our village and wiped out our family and friends.</t>
+<i>1030</i><c>Jason</c><t>We do this as an act of vengeance.  We ambush Phoenix citizens and take their supplies.</t>
+<i>1040</i><c>Shawn</c><t>Coward!  How dare you taint the name of Dragon with your cowered acts!  If you want revenge, fight armed men!  Not unarmed civilians!</t>
+<i>1050</i><c>Taylor</c><t>Your acts of Cowardice are not like those of a true Dragon.  I suggest you refrain from attacking unarmed men, even if they are of the Phoenix.  Now if you excuse us, we have a mission to complete.</t>
+<i>1060</i><c>Jason</c><t>... Wait.  You're Hero fighters, aren't you?  We wish to help you.</t>
+<i>1070</i><c>Lucas</c><t>Absolutely not!  This mission is dangerous, we're willing to put our life on the line for its success!</t>
+<i>1080</i><c>Jason</c><t>Our family is gone...  our friends are dead, do we look like the type of people who value life?  We'll do whatever you say to get back at the Phoenix...</t>
+<i>1090</i><c>Jason</c><t>I know alot about them.  The way you dress and speak will you give you away faster than you can fire an arrow.  With my help, that won't be a problem...</t>
+<i>1100</i><c>Jason</c><t>Please...</t>
+<i>1110</i><c>Taylor</c><t>......</t>
+<i>1120</i><c>Taylor</c><t>*Sigh*...  This group just keeps getting bigger and bigger.  I'll let you tag along as long as you follow my orders.  Now, let's go!</t>
+<i>1130</i><c>---</c><t>--- Stage Finshed ---
+(Thanks William Piper for helping translation!)</t>

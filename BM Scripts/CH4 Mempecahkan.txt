@@ -1,0 +1,114 @@
+<i>10</i><c>Lukas</c><t>Keadaan Kuil kucar-kucir, jika kami tidak meninggalkan Kota, inilah tidak akan terjadi.</t>
+<i>20</i><c>Dru</c><t>Jika kami lebih kuat, kami akan mempunyai peluang untuk melawannya!</t>
+<i>30</i><c>Shaun</c><t>Jangan hanya cakap, Dru. Itu Tiga Besar sangat kuat berbanding dengan kami. Sekarang Cikgu Yaga juga tercedera.</t>
+<i>40</i><c>Shaun</c><t>Oh¡­¡­Lukas?</t>
+<i>50</i><c>Lukas</c><t>Saya sedang melatih. Seperti Dru yang cakap, kita perlulah menjadi lebih kuat! Tak pernah berputus asa!</t>
+<i>60</i><c>Dru</c><t>Wah! Saya juga mahu melatih!</t>
+<i>70</i><c>Shaun</c><t>Kita tiadalah pilihan, marilah latih!</t>
+<i>80</i><c>Shaun</c><t>Mahu memuji kamu, Lukas, kamu menjadi lebih kuat.</t>
+<i>90</i><c>Lukas</c><t>Selepas melawan dengan Artik, saya telah faham sesuatu tentang Tebangan Langit.</t>
+<i>100</i><c>Dru</c><t>Jika kami kekal untuk melatih, kami mesti dapat berbanding dengan Tiga Besar!</t>
+<i>110</i><c>Gordon</c><t>Janganlah lupa saya. Bukanlah hanya melatih boleh membantu berbanding dengan Tiga Besar.</t>
+<i>120</i><c>Lukas</c><t>General Gordon! Mengapakah kamu mengeluarkan perkataan itu?</t>
+<i>130</i><c>Gordon</c><t>Mukjizat bukan sahaja mempunyai tentera dalam bilangan yang besar, mereka juga menangkap banyak tentera kami!</t>
+<i>140</i><c>Shaun</c><t>Gordon betul. Kami kurang tentera sekarang!</t>
+<i>150</i><c>Dru</c><t>General gordon, tolong mengajarkan kami macam mana untuk membawa tentera!</t>
+<i>160</i><c>Gordon</c><t>Hmm......Baiklah, marilah ikut saya.</t>
+<i>170</i><c>Gordon</c><t>Sinilah ada empat jenis tentera iaitu: Infantri, Pasukan Berkuda, Pemanah dan Penyokong.</t>
+<i>180</i><c>Gordon</c><t>Infantri adalah untuk melindungi Pemanah dan Penyokong. Mereka juga memberi peluang untuk Wira supaya rehat dan rawat. Mereka mahir dalam melawan Pemanah.</t>
+<i>190</i><c>Gordon</c><t>Pasukan Berkuda akan menerpa dalam perjuangan. Mereka boleh membunuh banyak musuh jika status mereka baik.</t>
+<i>200</i><c>Gordon</c><t>Pemanah akan berjuang dalam jarak yang selamat. Mereka mahir dalam melawan Pasukan berkuda.</t>
+<i>210</i><c>Gordon</c><t>Penyokong tidak mahir dalam berjuang, tetapi mereka boleh melawat pasukan yang cedera.</t>
+<i>220</i><c>Lukas</c><t>General... Kami telah tahu ini, tapi macam mana kami menyusunkannya?</t>
+<i>230</i><c>Gordon</c><t>Jika melawan dengan infantri, gunakan Wira atau kamu punya infantri untuk menahan mereka. Lalu mengunakan Pasukan kuda atau Pemanah untuk menyerang mereka.</t>
+<i>240</i><c>Shaun</c><t>Jika mahu melindungi pemanah, gunakan pasukan berkuda untuk menjauhkan jarak infantri, betulkah?</t>
+<i>250</i><c>Gordon</c><t>Betul, tapi jika tidak cukup pasukan berkuda, jangan campur dalam bahagian tengah, kamu akan dikepung oleh mereka! Serang dari bahagian sisi jika mungkin.</t>
+<i>260</i><c>Dru</c><t>Jika mereka ada tentera dalam jenis yang lain?</t>
+<i>270</i><c>Gordon</c><t>Kamu bermaksud pemanah dan penyokong? Mereka lemah dalam keadaan kelam-kabut.</t>
+<i>280</i><c>Gordon</c><t>Pasukan berkuda akan mendatangkan banyak masalah, mengalih perhatian mereka atau gunakan pemanah untuk memanah mereka. Kesabaran agak penting!</t>
+<i>290</i><c>Lukas</c><t>Kamu punya ajaran agak baik. Terima kasih, General Gordon!</t>
+<i>300</i><c>Gordon</c><t>Janganlah hanya cakap, marilah mejalankan ujian sekarang! Jangan risau, ini hanya latihan.</t>
+<i>310</i><c>Shaun</c><t>Baiklah.</t>
+<i>320</i><c>Jenny</c><t>Apakah yang berlaku?</t>
+<i>330</i><c>Dru</c><t>General Gordon sedang mengajar kami macam mana membawa tentera, kami mahu sesi berlatih sekarang!</t>
+<i>340</i><c>Jenny</c><t>Oh......Bolehkah saya menyertai?</t>
+<i>350</i><c>Gordon</c><t>Kamu boleh menyertai kami bila-bila masa, marilah Jenny!</t>
+<i>360</i><c>Gordon</c><t>Kamu tiga belajar dengan cepat! Bagus!</t>
+<i>370</i><c>Yaga</c><t>Mereka masih ada banyak untuk belajar, General Gordon.</t>
+<i>380</i><c>Gordon</c><t>Cikgu Yaga, kamu haruslah berehat!</t>
+<i>390</i><c>Yaga</c><t>Saya telah rehat banyak hari ini. Satu bulan lagi jika mahu cedera saya sembuh. Masalah kita ialah banyak tentera telah ditangkap oleh Mukjizat.</t>
+<i>400</i><c>Taylor</c><t>Cikgu, tunggu sabar. Jika Evan punya tentera balik, kami dapat membalas dendam. Jangan risau.</t>
+<i>410</i><c>Lukas</c><t>Cikgu, saya mahu meminta maaf kerana inilah kesalahan saya. Jika saya tiada memanggil Dru dan Shaun meninggalkan Kota.......</t>
+<i>420</i><c>Yaga</c><t>Mukjizat ialah negara yang sangat kuat, Lucas. Mereka boleh menjajah Kota itu dengan kekerasan juga.</t>
+<i>430</i><c>Gordon</c><t>Cikgu Yaga, saya telah memanggilkan tentera pinggiran supaya memerhatikan Mukjizat. Ssaya juga memanggilkan segelintir tentera untuk mencari tentera yang hilang.</t>
+<i>440</i><c>Yaga</c><t>Terima kasih, General.</t>
+<i>450</i><c>Jenny</c><t>Cikgu, saya mahu tanya...... Kenapakah Pedang Wira sangat penting?</t>
+<i>460</i><c>Yaga</c><t>Kamu tahu apakah yang berlaku terhadap Lincoln?</t>
+<i>470</i><c>Jenny</c><t>Yakah dia yang membunuh Raja Raksasa pada 15 tahun yang lalu?</t>
+<i>480</i><c>Yaga</c><t>Betul. Raja Raksasa mahu berjuang dengan manusia.</t>
+<i>490</i><c>Yaga</c><t>Walaupun Mukjizat membantu kami, tetapi kalah juga.</t>
+<i>500</i><c>Yaga</c><t>Demi mengalahkan Raja Raksasa, tiga Wira Pejuang terkorban dan memasukkan jiwa mereka ke dalam Perang Wira. </t>
+<i>510</i><c>Yaga</c><t>Lincoln menggunakan Perang itu dan mengalahkan Raja Raksasa. Walaupun tiga Wira terkorban.</t>
+<i>520</i><c>Yaga</c><t>Sekiranya bukan Pedang itu, kita tidak dapat berada di sini. Memang mungkin Mukjizat di sini.</t>
+<i>530</i><c>Dru</c><t>Jiwa daripada tiga Wira? Dalam sebilah Pedang? Hebatnya!</t>
+<i>540</i><c>Gordon</c><t>Lincoln masih hidupp selepas perjuangan dengan Raksasa. Tetapi Mukjizatmembunuhkannya dengan racun dalam sesuatu rancangan. </t>
+<i>550</i><c>Gordon</c><t>Jika mereka tahu kekuasaan Pedang itu, mereka akan merompak Pedang itu pada malam itu.</t>
+<i>560</i><c>Yaga</c><t>Oleh iyu, kami, Wira Pejuang, akan melindungi Perang Wira sehingga mempunyai orang menggunakannya, itulah jawapan mengapakah Pedang itu sangat penting!</t>
+<i>570</i><c>Shaun</c><t>Kenapakah kami tidak menggunakan Pedang itu untuk menahan?</t>
+<i>580</i><c>Yaga</c><t>Jangan semacam seorang budak, Shaun. Kamu tak boleh memilih Pedang, tapi Pedang boleh memilih orang. Hanya orang yang tertentu saja boleh menggunakan Pedang itu.</t>
+<i>590</i><c>Jenny</c><t>Jika Pedang itu memilihkan pejuang di Mukjizat?</t>
+<i>600</i><c>Yaga</c><t>Inilah apa yang saya takut. Saya tidak tahu tentang ini.......</t>
+<i>610</i><c>Gordon</c><t>mereka boleh menggunakannya, negara kita akan habis.......</t>
+<i>620</i><c>Yaga</c><t>Taylor, kamulah yang paling teliti dalam Kuil ini. Baiklah. Saya mengarah kau pergi kawasan Mukjizat dan carikan Pedang Wira, serta tentera yang hilang juga......</t>
+<i>630</i><c>Taylor</c><t>Saya akan, Cikgu.</t>
+<i>640</i><c>Lukas</c><t>Hmm......</t>
+<i>650</i><c>Taylor</c><t>Eh?? Keluar, pengecut! Saya tahu kamu di sini, jumpa saya!</t>
+<i>660</i><c>Lukas</c><t>Kamu sensitif sangat, Taylor.</t>
+<i>670</i><c>Taylor</c><t>Lukas! Apakah kamu buat di sinji?! Kamu perlu tinggal di Kuil! Balik sekarang!</t>
+<i>680</i><c>Lukas</c><t>Saya...... Tidak! Saya hendak tolong kamu!</t>
+<i>690</i><c>Taylor</c><t>Kamu hendak tinggal di Kuil, kamu akan menyusahkan tugasan saya!</t>
+<i>700</i><c>Lukas</c><t>Saya hendak tolong kamu saja, inilah kesalahan saya. Saya hendak menyelamatkan Kuil!</t>
+<i>710</i><c>Taylor</c><t>Oh...... mahu berjasa? Shaun! Dru! Jangan menyembunyikan diri, saya tahu kamu di sini juga!</t>
+<i>720</i><c>Dru</c><t>Alamak! Sialan!</t>
+<i>730</i><c>Lukas</c><t>Kenapa kamu dua di sini? Saya tiada memanggil kamu dua......</t>
+<i>740</i><c>Shaun</c><t>Inilah kesalahan kami tiga, Lukas. Kami hendak membuat sesuatu!</t>
+<i>750</i><c>Dru</c><t>Kita mahu bantu kamu juga! Lukas!</t>
+<i>760</i><c>Taylor</c><t>Kamu tiga agak gigih! Saya akan ada jawapan selepas ini. </t>
+<i>770</i><c>Shaun</c><t>Klon Bayangan......?</t>
+<i>780</i><c>Taylor</c><t>Kalahkan saya, saya akan membenarkan kamu tiga. Jika tidak, saya akan menghantarkan kamu tiga balik ke Keil!</t>
+<i>790</i><c>Shaun</c><t>Kamu menahan diri terhadap kami, saya tahu!</t>
+<i>800</i><c>Taylor</c><t>Cukuplah. Saya telah ada jawapan.</t>
+<i>810</i><c>Taylor</c><t>Saya membenarkan kamu tiga pergi dengan saya. Tapi, kamu hendak menfengar arahan saya, faham?</t>
+<i>820</i><c>Lukas</c><t>Ini patutlah! Taylor!</t>
+<i>830</i><c>Taylor</c><t>Tujuan tugasan ialah membawa Pedang balik ke Kuil. Sebab Pedang ini berkaitan dengan keadaan negara kami, Naga.</t>
+<i>840</i><c>Taylor</c><t>Kami mungkin terkorban untuk Pedang ini, tetapi kami harus buat itu tiada sugutan, faham?</t>
+<i>850</i><c>Dru</c><t>Ya...ya... kami faham! </t>
+<i>860</i><c>Shaun</c><t>Nyawa kami untuk Kuil......</t>
+<i>870</i><c>Lukas</c><t>Demi Naga!</t>
+<i>880</i><c>Taylor</c><t>Bagus, pergi!</t>
+<i>890</i><c>Taylor</c><t>!!!</t>
+<i>900</i><c>Jason</c><t>Ada beberapa tikus di sini! Adik-beradik! Bunuhkan mereka!</t>
+<i>910</i><c>Shaun</c><t>Kami telah dinodai!</t>
+<i>920</i><c>Dru</c><t>Inilah terperangkap!</t>
+<i>930</i><c>Taylor</c><t>Tapi...... Macam mana mereka tahu saya akan melalui jalan ini?</t>
+<i>940</i><c>Lukas</c><t>Kami mesti membunuhkan mereka semua!</t>
+<i>950</i><c>Jason</c><t>Kamilah orang yang biadap! Jangan risau terhadap maruah kami! Bunuh mereka!</t>
+<i>960</i><c>Taylor</c><t>Mereka mempunyai orang yang terlalu bangyak......</t>
+<i>970</i><c>Jason</c><t>Adik-beradik! Berhenti!</t>
+<i>980</i><c>Sickleman</c><t>Aye!</t>
+<i>990</i><c>Dru</c><t>Ap......Eh, sekarang baru seronok!</t>
+<i>1000</i><c>Jason</c><t>Suara ini......Naga?</t>
+<i>1010</i><c>Lukas</c><t>Kalau tidak? </t>
+<i>1020</i><c>Jason</c><t>Kami Naga juga. Mukjizat telah merosakkan kampung saya dan membunuh keluar saya juga. </t>
+<i>1030</i><c>Jason</c><t>Kami di kawasan Mukjizat untuk menunggu peluang dan membalas dendam.</t>
+<i>1040</i><c>Shaun</c><t>Eh, macam mana boleh menghina Naga macam ni? Jika hendak membalsa dendam, sertakan angkatan Naga! Mengapa menjadi perompak?! </t>
+<i>1050</i><c>Taylor</c><t>Janganlah macam ini lagi. Serang penduduk adalah tindakan yang tidak betul, walaupun mereka Mukjizat juga. Kami hendak menjalankan tigasan lagi.</t>
+<i>1060</i><c>Jason</c><t>Tunggu dulu, kamu ¡®Wira Pejuang¡¯, betulkah? Kami hendak bantu kamu!</t>
+<i>1070</i><c>Lukas</c><t>Tentulah tak boleh! Tugasan ini sangat bahaya! Kami telah bersedia untuk terkorban!</t>
+<i>1080</i><c>Jason</c><t>Ahli keluarga saya telah meninggal, kawan saya juga....... Macam mana kami dilihat sebagai orang yang berharga?</t>
+<i>1090</i><c>Jason</c><t>Saya tahu banyak maklumat tentang mereka. Struktur ayat yang macam kamu ni akan terbongkar. Jika dengan bantuan saya, inilah bukan terjadi masalah......</t>
+<i>1100</i><c>Jason</c><t>Tolonglah........</t>
+<i>1110</i><c>Taylor</c><t>......</t>
+<i>1120</i><c>Taylor</c><t>*rintihan......* Baiklah. Kumpulan ini semakin besar. Saya membenarkan kamu membantu saya. Marilah pergi!</t>
+<i>1130</i><c>---</c><t>--- Peringkat Tamat ---
+(Terima Kasih Lai Zhen Yean untuk penerjemahan!)</t>

@@ -1,0 +1,37 @@
+<i>10</i><c>Lucas</c><t>It's been over a month now...  Guarding the gate these days gets really dull.</t>
+<i>20</i><c>Shawn</c><t>Don't get careless.  We did sign a treaty with the Phoenix, but that won't stop the bandits.</t>
+<i>30</i><c>Drew</c><t>Master should let us do somethin' else for a change...  All this standing around is gettin' me get soft!</t>
+<i>40</i><c>Lucas</c><t>Hey look over there!  I think someone's hurt!</t>
+<i>50</i><c>Shawn</c><t>We can't just stand here.  We should approach him.</t>
+<i>60</i><c>Villager</c><t>You...  You must be the Hero Fighters of legend...  Bandits... They destroyed our village...  Stop them... Please...</t>
+<i>70</i><c>Lucas</c><t>Darn it!  We have to do something!</t>
+<i>80</i><c>Drew</c><t>Well you heard the man!  It's 'bout time we made em' pay!</t>
+<i>90</i><c>Shawn</c><t>You will be avenged.</t>
+<i>100</i><c>Villager</c><t>Save... Them... (Faint)</t>
+<i>110</i><c>Bandit</c><t>They're too strong for us!</t>
+<i>120</i><c>Daggerman</c><t>Retreat!</t>
+<i>130</i><c>Villager</c><t>You saved my life, I am forever in your debt!</t>
+<i>140</i><c>Villager</c><t>I will help you fight off the bandits, I insist!</t>
+<i>150</i><c>Villager</c><t>If you want me to join your group, simply walk up to me.  Use the command button to order where my positioning should be.</t>
+<i>160</i><c>Villager</c><t>If you don't know where the Command button is, click on the keyboard in the upper right to find it or edit your keys!</t>
+<i>170</i><c>Villager</c><t>My strength is limited though, so it's best if I don't stay in the front lines.</t>
+<i>180</i><c>Lucas</c><t>Sounds like a plan.  Any help will do us good.</t>
+<i>190</i><c>Bandit</c><t>These guys are TOUGH, I think we just bumped into the Hero Fighters!</t>
+<i>200</i><c>Daggerman</c><t>If that's the case, retreat!  Giggs will know what to do!</t>
+<i>210</i><c>Bandit</c><t>Aye!  Retreat to Giggs!</t>
+<i>220</i><c>Woman</c><t>You saved me...  Those bandits took off with some of my belongings,  I will join you!</t>
+<i>230</i><c>Woman</c><t>If you're hurt, get close to me, I will use my powers to heal you!</t>
+<i>240</i><c>Lucas</c><t>Our group needs somebody like you.  We're getting near the Bandit's Camp, Onward!</t>
+<i>250</i><c>Bandit</c><t>Master Giggs!  These three guys just showed up and completely destroyed us!  They appear to be the...</t>
+<i>260</i><c>Giggs</c><t>WHA?!  Only three?!  You GOT to be kidding me!</t>
+<i>270</i><c>Drew</c><t>That feller with the stick looks like their leader!</t>
+<i>280</i><c>Shawn</c><t>We should prioritize on him.  Otherwise we'll be overwhelmed by Bandits.</t>
+<i>290</i><c>Lucas</c><t>You sick bastard...  Now you will pay for the lives you took!</t>
+<i>300</i><c>Giggs</c><t>How stupid are you, charging into a group much larger than yours?!  Kill them!</t>
+<i>310</i><c>Giggs</c><t>How...?  How could only three guys give us such a beating?!</t>
+<i>320</i><c>Shawn</c><t>You underestimated us!</t>
+<i>330</i><c>Lucas</c><t>Pathetic!  You are in no position to judge or complain.  Justice will be served here and now!</t>
+<i>340</i><c>Giggs</c><t>*GULP* I don't think so!  Retreat!</t>
+<i>350</i><c>Drew</c><t>Oops...</t>
+<i>360</i><c>---</c><t>--- Stage Finshed ---
+(Thanks William Piper for helping translation!)</t>
